@@ -1,0 +1,49 @@
+{%- comment -%} Default Styles {%- endcomment -%}
+{%- assign card_style  = '' -%}
+{%- assign text_style  = 'text-themed' -%}
+{%- assign badge_style = 'badge-dark' -%}
+
+{%- comment -%} Update Styles {%- endcomment -%}
+{%- if instpost.style == 'fill' -%}
+  {%- assign card_style = instpost.color | prepend: 'bg-' -%}
+  {%- if instpost.color != 'light' -%}
+    {%- assign text_style  = 'text-white' -%}
+    {%- assign badge_style = 'badge-light text-' -%}
+    {%- assign badge_style = badge_style | append: instpost.color -%}
+  {%- endif -%}
+{%- else -%}
+  {%- assign card_style = instpost.color | prepend: 'border border-' -%}
+  {%- if instpost.color -%}
+    {%- assign badge_style =  instpost.color | prepend: 'badge-' -%}
+  {%- endif -%}
+{%- endif -%}
+
+{%- comment -%} Determine Post URL {%- endcomment -%}
+{%- if instpost.external_url -%}
+  {%- assign instpost_url = instpost.external_url -%}
+{%- else -%}
+  {%- assign instpost_url = instpost.url | relative_url -%}
+{%- endif -%}
+    
+<div class="col-lg-6 my-3 wow animated fadeIn" data-wow-delay=".15s">
+  <a href="{{ instpost_url }}" class="instpost card {{ card_style }}" {%- if instpost.external_url and site.open_new_tab -%} target="_blank" {%- endif -%}>
+    <div class="card-body {{ text_style }}">
+      <h3 class="card-title">{{ instpost.title }}</h3>
+      <p class="card-text">
+        {% for tag in instpost.tags %}
+        <span class="badge {{ badge_style }}">{{ tag }}</span>
+        {% endfor %}
+      </p>
+      <p class="card-text">
+        {%- if instpost.description -%}
+        {{ instpost.description }}
+        {%- else -%}
+        {{ instpost.content | truncatewords: 25, "<small><i>  read more...</i></small>" }}
+        {%- endif -%}
+      </p>
+    </div>
+    <div class="card-footer {{ text_style }}">
+      {{ instpost.date | date_to_long_string }}
+    </div>
+  </a>
+</div>
