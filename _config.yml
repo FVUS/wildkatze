@@ -63,6 +63,9 @@ collections:
   learning:
     output: true
     permalink: /learning/:name
+  installation:
+    output: true
+    permalink: /installation/:name
   mygallery:
     output: true
     permalink: /gallery/:name
@@ -105,6 +108,11 @@ defaults:
   - scope:
       path: ""
       type: "learning"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "installation"
     values:
       layout: "page"
   - scope:
