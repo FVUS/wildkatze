@@ -2,9 +2,9 @@
 title               : wildkatze
 description         : >-
                       Multiphysics Solver
-url                 : "fvus.github.io/wildktaze"                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+url                 : "fvus.github.io/wildkatze"                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 baseurl             : "/"                                       # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : fvus.github.io/wildktaze                  # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : fvus.github.io/wildkatze                  # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : 
 open_new_tab        : false                                     # Opens external URLs in new tab (works for posts, projects and navbar only)
 
@@ -65,7 +65,7 @@ collections:
     permalink: /learning/:name
   mygallery:
     output: true
-    permalink: /mygallery/:name
+    permalink: /gallery/:name
 
 
 ### Disqus ###
@@ -109,7 +109,7 @@ defaults:
       layout: "page"
   - scope:
       path: ""
-      type: "mygallery"
+      type: "gallery"
     values:
       layout: "page"
 
