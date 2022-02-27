@@ -66,7 +66,7 @@ collections:
   installation:
     output: true
     permalink: /installation/:name
-  mygallery:
+  gallery:
     output: true
     permalink: /gallery/:name
 
