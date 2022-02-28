@@ -81,7 +81,7 @@ These files are used to run the solver in various modes.
  Example solver.sh to launch wildkatze with 4 processes
  
  ```
- /home/savya/dravvya/openmpi110/bin/mpirun -np 4 /home/savya/dravvya/bin/wildkatze -l  /home/savya/dravvya/license/license.wildkatze.dat "$@"
+ /home/savya/dravvya/openmpi110/bin/mpirun -np 4 /home/savya/dravvya/bin/wildkatze -l  /home/savya/dravvya/license/license.wildkatze.dat 
  ```
  We now set up the GUI script. 
  
