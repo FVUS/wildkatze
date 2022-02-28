@@ -8,7 +8,7 @@ description: Download and Installation
 # Obtaining Wildkatze
  <br/><br/>
  <br/><br/>
- [Download Wildkatze]( https://github.com/FVUS/wildktaze/blob/main/release/y2022/WildkatzeCFD.zip)
+ [**Download Wildkatze**]( https://github.com/FVUS/wildktaze/blob/main/release/y2022/WildkatzeCFD.zip)
 <br/><br/>
 <br/><br/>
 
