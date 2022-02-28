@@ -23,6 +23,7 @@ This produces ``` sample.bmsh ``` and ``` sample.info.bmsh ``` files.  ``` .info
 
 ## Set Up
 
+Now the following command setup and iterates the simulation for 10 iterations. It also exports the results in results.case file for paraview.
  
 ![install 01](https://live.staticflickr.com/65535/51910345183_a83603ee7c_z.jpg)
 
