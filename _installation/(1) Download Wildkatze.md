@@ -44,8 +44,7 @@ We copied solver into ``` $HOME/dravvya/ ```
 
  However this would mostly likely fail to launch the GUI for failing to load vtk
 related classes.
-To properly start GUI one need to set environment variable ```LD_LIBRARY_PATH``` to
-```$HOME/dravvya/vtk```
+To properly start GUI one need to set environment variable ```LD_LIBRARY_PATH``` to ```$HOME/dravvya/vtk```
 
 ![install 03](https://live.staticflickr.com/65535/51910073300_b8e7761a0a_c.jpg)
 
