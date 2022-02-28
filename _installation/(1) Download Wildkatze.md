@@ -85,7 +85,7 @@ These files are used to run the solver in various modes.
  ```
  
  
- #### GUI script -- wildkatzeGUI.sh
+ #### GUI script  wildkatzeGUI.sh
  
  One shall replace the ``` $HOME ``` variable in **wildkatzeGUI.sh**.  This script is used to launch the GUI. 
  
