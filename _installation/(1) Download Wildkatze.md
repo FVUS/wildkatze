@@ -72,5 +72,8 @@ We copied solver into ``` $HOME/dravvya/ ```
 There is a set of .sh or shell script files present in bin folder. After copying files to ``` $HOME/dravvya```  they shall be present in ```$HOME/dravvya``` .
 These files are used to run the solver in various modes. 
 
+#### Creating solver.sh file
+
+solver.sh is present in $HoME/bin folder and it is used to run the simulation.  
 
  
