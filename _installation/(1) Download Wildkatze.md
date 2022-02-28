@@ -72,8 +72,22 @@ We copied solver into ``` $HOME/dravvya/ ```
 There is a set of .sh or shell script files present in bin folder. After copying files to ``` $HOME/dravvya```  they shall be present in ```$HOME/dravvya``` .
 These files are used to run the solver in various modes. 
 
-#### Creating solver.sh file
+#### Creating solver.sh file for launchig wildkatze solver
 
-solver.sh is present in $HoME/bin folder and it is used to run the simulation.  
+ 
+
+**Please edit the .sh files present in bin folder (int installation) with proper ``` $HOME ``` values.** 
+
+ Example solver.sh to launch wildkatze with 4 processes
+ 
+ ```
+ /home/savya/dravvya/openmpi110/bin/mpirun -np 4 /home/savya/dravvya/bin/wildkatze -l  /home/savya/dravvya/license/license.wildkatze.dat "$@"
+ ```
+ 
+ 
+ #### GUI script -- wildkatzeGUI.sh
+ 
+ One shall replace the ``` $HOME ``` variable in **wildkatzeGUI.sh**.  This script is used to launch the GUI. 
+ 
 
  
