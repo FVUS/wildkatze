@@ -83,10 +83,14 @@ These files are used to run the solver in various modes.
  ```
  /home/savya/dravvya/openmpi110/bin/mpirun -np 4 /home/savya/dravvya/bin/wildkatze -l  /home/savya/dravvya/license/license.wildkatze.dat "$@"
  ```
+ We now set up the GUI script. 
+ 
  
  #### GUI script  wildkatzeGUI.sh
  
  One shall replace the ``` $HOME ``` variable in **wildkatzeGUI.sh**.  This script is used to launch the GUI. 
  
 
+ ### Step 5 -- Solver in Console Mode
+ 
  
