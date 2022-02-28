@@ -54,6 +54,15 @@ One can now launch Client GUI using
 ![install 04](https://live.staticflickr.com/65535/51909544203_76ea27480c_z.jpg)
 
 
+#### Java
+
+In case the GUI fails to load for absence of Java, one can install Java with following:
+
+```
+sudo apt-get install default-jdk
+sudo apt-get install default-jre
+sudo apt install openjdk-8-jdk
+```
 
 
 
