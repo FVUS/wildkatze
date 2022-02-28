@@ -91,4 +91,17 @@ These files are used to run the solver in various modes.
  
 ### Step 5 -- Solver in Console Mode
  
- 
+Once the solver.sh script is set up, starting solver in console mode is:
+
+```
+source solver.sh
+```
+
+This launches the solver in console mode:
+
+![install 05](https://live.staticflickr.com/65535/51910108321_e1cc8a78cd_b.jpg)
+
+
+
+
+
