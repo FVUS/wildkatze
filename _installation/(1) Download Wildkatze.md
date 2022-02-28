@@ -40,13 +40,18 @@ make && sudo make install
 
 We copied solver into ``` $HOME/dravvya/ ```
  
-![install 01](https://live.staticflickr.com/65535/51908477227_e2c83d05d7_c.jpg)
+![install 02](https://live.staticflickr.com/65535/51908477227_e2c83d05d7_c.jpg)
 
  However this would mostly likely fail to launch the GUI for failing to load vtk
 related classes.
-To properly start GUI one need to set environment variable LD_LIBRARY_PATH to
-$HOME/dravvya/vtk
+To properly start GUI one need to set environment variable ```LD_LIBRARY_PATH``` to
+```$HOME/dravvya/vtk```
 
+![install 03](https://live.staticflickr.com/65535/51910073300_b8e7761a0a_c.jpg)
+
+One can now launch Client GUI using
+
+![install 04](https://live.staticflickr.com/65535/51909544203_76ea27480c_z.jpg)
 
 
 
