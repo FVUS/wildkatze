@@ -11,6 +11,23 @@ description: Download and Installation
 
 ## Installation
 
+### Step 1
+Unzipping Wildkatze.Gen.2019.11.30.x86_64.tar.gz we get:
+
+![install 01](https://live.staticflickr.com/65535/51909427566_07a696e065_b.jpg)
+
+
+- Make directory called dravvya in home ($HOME) directory.
+- Copy the contents of Wildkatze.Gen.2019.11.30.x86_64.tar.gz in ``` $HOME/dravvya ``` folder.
+- Copy the license file license.wildkatze.dat in the ``` $HOME/dravvya/license``` folder. This license file shall be provided by Digital Solution Inc. The license file provided with basic setup will not be identified by the solver.
+- At this point ``` $HOME/dravvya``` folder has all relevant files along with a valid license.
+
+
+
+
+
+
+
 ### Openmpi
 
 Wildkatze uses openmpi
