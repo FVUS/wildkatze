@@ -23,9 +23,18 @@ Unzipping Wildkatze.Gen.2019.11.30.x86_64.tar.gz we get:
 - At this point ``` $HOME/dravvya``` folder has all relevant files along with a valid license.
 
 
+### Step 1 -- Installing Openmpi
 
+Wildkatze uses Openmpi, a typical setup shall go as follows:
 
-
+```
+sudo apt-get install libibnetdisc-dev
+wget http://www.open-mpi.org/software/ompi/v1.10/downloads/openmpi-1.10.3.tar.gz
+tar -xvzf openmpi-1.10.3.tar.gz
+cd openmpi-1.10.3
+./configure --prefix=$HOME/dravvya/openmpi110
+make && sudo make install
+```
 
 
 ### Openmpi
