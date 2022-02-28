@@ -1,27 +1,7 @@
+<div class="card-group mt-2">
 
-<div class="card-columns m-3 mt-5">
-
-  <!-- Local Projects -->
-  {% for project in site.verification %}
-
-    {%- assign project_type  = "local" -%}
-    {%- assign project_id    = project.name | slugify -%}
-    {%- assign project_img   = project.image -%}
-    {%- assign project_name  = project.name -%}
-    {%- assign project_desc  = project.description -%}
-    {%- assign project_tools = project.tools -%}
-
-    {%- if project.external_url -%}
-      {%- assign project_url = project.external_url -%}
-      {%- assign external    = true -%}
-    {%- else -%}
-      {%- assign project_url = project.url | relative_url -%}
-      {%- assign external    = false -%}
-    {%- endif -%}
-
-    {% include projects/project-card.html %}
-
+  {% for post in site.projects %}
+    {% include installation/post-card.html %}
   {% endfor %}
-
+  
 </div>
-
