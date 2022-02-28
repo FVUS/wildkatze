@@ -89,7 +89,9 @@ These files are used to run the solver in various modes.
  
  One shall replace the ``` $HOME ``` variable in **wildkatzeGUI.sh**.  This script is used to launch the GUI. 
  
-### Step 5 -- Solver in Console Mode
+### Step 5 -- Running the Solver
+
+####   Solver in Console Mode
  
 Once the solver.sh script is set up, starting solver in console mode is:
 
@@ -101,6 +103,14 @@ This launches the solver in console mode:
 
 ![install 05](https://live.staticflickr.com/65535/51910108321_e1cc8a78cd_b.jpg)
 
+####   Solver in Client Server Mode (with GUI)
+
+To start the server at port 5010 we use
+
+```
+solver.sh -s 5010 
+```
+![install 07](https://live.staticflickr.com/65535/51910495349_febcb49e3b_b.jpg)
 
 
 
