@@ -7,10 +7,7 @@ description: Download and Installation
 
 # Obtaining Wildkatze
  
- 
-
- 
- [hello-2.10-1.el8.rpm]( https://github.com/FVUS/wildktaze/blob/main/release/y2022/WildkatzeCFD.zip)
+ [Download Wildkatze]( https://github.com/FVUS/wildktaze/blob/main/release/y2022/WildkatzeCFD.zip)
 
 ## Installation
 
