@@ -69,6 +69,9 @@ collections:
   gallery:
     output: true
     permalink: /gallery/:name
+  verification:
+    output: true
+    permalink: /verification/:name
 
 
 ### Disqus ###
@@ -118,6 +121,11 @@ defaults:
   - scope:
       path: ""
       type: "gallery"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "verification"
     values:
       layout: "page"
 
