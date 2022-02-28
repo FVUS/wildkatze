@@ -63,7 +63,14 @@ sudo apt-get install default-jre
 sudo apt install openjdk-8-jdk
 ```
 
+### Step 4 -- Solver Launch Scripts
 
+We copied solver into ``` $HOME/dravvya/ ``` 
+
+![install 05](https://live.staticflickr.com/65535/51910125470_ef8ffcb445_z.jpg)
+
+There is a set of .sh or shell script files present in bin folder. After copying files to ``` $HOME/dravvya```  they shall be present in ```$HOME/dravvya``` .
+These files are used to run the solver in various modes. 
 
 
  
