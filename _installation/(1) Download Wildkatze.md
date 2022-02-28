@@ -112,6 +112,21 @@ solver.sh -s 5010
 ```
 ![install 07](https://live.staticflickr.com/65535/51910495349_febcb49e3b_b.jpg)
 
+One can notice 5010 in above picture. This is the port on which server is listening for incoming connections from
+GUI.  
+Now user shall start GUI and connect the server on this port.
 
+####   Client Mode
+
+To start GUI or client 
+
+```
+solverGui.sh  
+```
+
+This runs GUI as
+![install 08](https://live.staticflickr.com/65535/51910522329_6367c93264_c.jpg)
+
+![install 09](https://live.staticflickr.com/65535/51910301998_91252a2894_c.jpg)
 
 
