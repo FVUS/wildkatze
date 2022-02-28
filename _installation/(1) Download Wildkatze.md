@@ -11,7 +11,7 @@ description: Download and Installation
 
 ## Installation
 
-### Step 1
+### Step 1 -- Basic Set Up
 Unzipping Wildkatze.Gen.2019.11.30.x86_64.tar.gz we get:
 
 ![install 01](https://live.staticflickr.com/65535/51909427566_07a696e065_b.jpg)
