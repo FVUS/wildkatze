@@ -125,7 +125,9 @@ solverGui.sh
 ```
 
 This runs GUI as
+
 ![install 08](https://live.staticflickr.com/65535/51910522329_6367c93264_c.jpg)
+
 
 ![install 09](https://live.staticflickr.com/65535/51910301998_91252a2894_c.jpg)
 
