@@ -23,7 +23,7 @@ Unzipping Wildkatze.Gen.2019.11.30.x86_64.tar.gz we get:
 - At this point ``` $HOME/dravvya``` folder has all relevant files along with a valid license.
 
 
-### Step 1 -- Installing Openmpi
+### Step 2 -- Installing Openmpi
 
 Wildkatze uses Openmpi, a typical setup shall go as follows:
 
@@ -35,6 +35,20 @@ cd openmpi-1.10.3
 ./configure --prefix=$HOME/dravvya/openmpi110
 make && sudo make install
 ```
+
+### Step 3 -- VTK for Client GUI
+
+We copied solver into ``` $HOME/dravvya/ ```
+ 
+![install 01](https://live.staticflickr.com/65535/51908477227_e2c83d05d7_c.jpg)
+
+ However this would mostly likely fail to launch the GUI for failing to load vtk
+related classes.
+To properly start GUI one need to set environment variable LD_LIBRARY_PATH to
+$HOME/dravvya/vtk
+
+
+
 
 
 ### Openmpi
