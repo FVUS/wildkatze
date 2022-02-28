@@ -85,10 +85,10 @@ These files are used to run the solver in various modes.
  ```
  We now set up the GUI script. 
  
-####GUI script  wildkatzeGUI.sh
+#### GUI script  wildkatzeGUI.sh
  
  One shall replace the ``` $HOME ``` variable in **wildkatzeGUI.sh**.  This script is used to launch the GUI. 
  
-###Step 5 -- Solver in Console Mode
+### Step 5 -- Solver in Console Mode
  
  
