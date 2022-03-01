@@ -14,7 +14,9 @@ description: High viscosity Power Law fluid flow is difficult to simulate. We ve
  
 For the polymer viscosity, the power law is used:
 **viscosity = k · ShearRate (n−1)
+
 k = 407374.2
+
 n = 0.17432**
 
 
