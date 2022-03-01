@@ -7,9 +7,6 @@ permalink: /
 ![Wildkatze Logo](assets/images/logo80.png)
 
 ## Multiphyics Solver
-
-[![IMAGE ALT TEXT](https://live.staticflickr.com/65535/51909427566_07a696e065_b.jpg](https://www.youtube.com/embed/dGMN_OeuO24?playlist=dGMN_OeuO24&rel=0&loop=1 "Video Title")
- 
                                   
 
 ![Summary](https://live.staticflickr.com/65535/51909289644_5801b44f86_z.jpg)
