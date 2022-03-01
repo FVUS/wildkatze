@@ -8,11 +8,8 @@ permalink: /
 
 ## Multiphyics Solver
 
-                                  <div class="mySlides">
-                                         <iframe width="100%" height="800"
-                                 src="https://www.youtube.com/embed/dGMN_OeuO24?playlist=dGMN_OeuO24&rel=0&loop=1" frameborder="0" allowfullscreen>
-                                  </iframe>
-                                  </div>
+[![IMAGE ALT TEXT](https://live.staticflickr.com/65535/51909427566_07a696e065_b.jpg](https://www.youtube.com/embed/dGMN_OeuO24?playlist=dGMN_OeuO24&rel=0&loop=1 "Video Title")
+ 
                                   
 
 ![Summary](https://live.staticflickr.com/65535/51909289644_5801b44f86_z.jpg)
