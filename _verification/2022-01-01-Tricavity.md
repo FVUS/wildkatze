@@ -1,6 +1,6 @@
 ---
 title: Flow in triangular cavity driven by moving wall
-tags: [CHT, Heat Source]
+tags: [Laminar Flow]
 style: 
 color: 
 description: Laminar fow induced in a triangular cavity, by a moving top wall and stationary side walls.
