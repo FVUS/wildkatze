@@ -13,11 +13,12 @@ description: High viscosity Power Law fluid flow is difficult to simulate. We ve
  
  
 For the polymer viscosity, the power law is used:
-**viscosity = k · ShearRate (n−1)
 
-k = 407374.2
+**viscosity = k · ShearRate (n−1)**
 
-n = 0.17432**
+**k = 407374.2**
+
+**n = 0.17432**
 
 
 In Figure 8.1, the velocity at middle of pipe is plotted with respect to radius. This is done for both, analytical and Wildkatze simulation data and we can see very good agreement. Additionaly, we have plot the velocity and viscosity profiles for this validation case in figure 8.2 and 8.3.
