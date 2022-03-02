@@ -7,7 +7,7 @@ description: Drag prediction
 
 # 2ND AUTOMOTIVE CFD PREDICTION WORKSHOP
 
-![WORKSHOP](https://autocfd.eng.ox.ac.uk)
+ [**WORKSHOP**](https://autocfd.eng.ox.ac.uk)
  
 # Results
 
