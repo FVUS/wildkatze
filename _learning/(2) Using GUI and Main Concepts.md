@@ -1,8 +1,8 @@
 ---
-name: Turbulent Flow
-tools: [Turbulence]
-image: https://live.staticflickr.com/65535/51909308599_70f5f4c8ea_h.jpg
-description:  Turbulence modeling with Wildkatze solver
+name: GUI and Main Concepts
+tools: [Main Concepts of Wildkatze]
+image: https://live.staticflickr.com/65535/51913553264_8125c1750a_z.jpg
+description:  Learning
 ---
 
 # Set Up 
