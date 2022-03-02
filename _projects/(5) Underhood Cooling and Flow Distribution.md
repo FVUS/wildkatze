@@ -1,7 +1,7 @@
 ---
 name: Underhood Cooling and Flow Distribution
 tools: [Underhood, PQ-Fan, Aerodynamics]
-image: https://live.staticflickr.com/65535/51909308599_70f5f4c8ea_h.jpg
+image: https://live.staticflickr.com/65535/51913250998_93c535b0ce_z.jpg
 description: Underhood Cooling and Flow Distribution Using Wildkatze
 ---
 
