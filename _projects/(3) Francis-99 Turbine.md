@@ -1,7 +1,7 @@
 ---
 name: CFD analysis of model Francis-99 Turbine
 tools: [MRF,Pump]
-image: https://live.staticflickr.com/65535/51909115268_fec31d92ac_b.jpg
+image: https://live.staticflickr.com/65535/51912998061_08099ff9af_c.jpg
 description: Demostrating application of Wildkatze for turbomachinary
 ---
 
