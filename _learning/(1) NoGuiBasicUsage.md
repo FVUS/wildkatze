@@ -5,19 +5,35 @@ image: https://live.staticflickr.com/65535/51908026852_4ee149a839_c.jpg
 description:  Basics of performing ultra fast simulations with Wildkatze
 ---
 
-# Set Up 
+# Converting Meshes to Wildkatze Format 
+
+We start with mesh in Fluent format. It is also possible to convert the mesh from Starccm's ccm and openFoam format. Here we have TriVortexShed.msh file in Fluent format. 
 
  ![learn 01](https://live.staticflickr.com/65535/51916021422_83ec9405b7_n.jpg)
-
+ 
+ To convert we use fluent2bmsh command where the meshFile is without ``` .msh ``` extension. So we have
+ 
+ ```
+ 
+ fluent2bmsh TriVortexShed
+ 
+ ```
+ 
 ![learn 01](https://live.staticflickr.com/65535/51917315099_242391d07d_c.jpg)
+
+This converts the mesh into ``` .info.bmsh ``` and ``` .bmsh ``` files. 
 
 ![learn 01](https://live.staticflickr.com/65535/51916021592_3bdbd6bdc9_z.jpg)
 
 ![learn 01](https://live.staticflickr.com/65535/51917315189_506c2008bc_z.jpg)
 
- 
+ We can check what ``` .info.bmsh ``` contains.
 
 ![learn 01](https://live.staticflickr.com/65535/51916989341_bc2efdd2ee_n.jpg)
+
+It is importan to note that one can change the boundary types here to Wall, Inlet, Outlet and Symmetry.  
+Also one can change Fluid to Solid types for Conjugated Heat Transfer simulations. 
+
 
 ![learn 01](https://live.staticflickr.com/65535/51916989476_8eb117fd8a_b.jpg)
 
