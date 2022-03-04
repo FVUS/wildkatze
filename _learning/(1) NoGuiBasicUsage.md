@@ -54,9 +54,15 @@ What is happening here?
  -  ``` -lc pf o.txt ``` part tells wildkatze to process file (pf) o.txt and generate output.stree and run.txt  files.
  -  run.txt is journal file to run simulation using output.stree and meshFile
 
+We set up flow with inlet velocity of 10 m/sec.  Note the ``` -vel 10 ``` option added to ``` flow meshFile ```.
+
 ![learn 01](https://live.staticflickr.com/65535/51916989476_8eb117fd8a_b.jpg)
 
+This sets up the steady state flow model. 
+
 ![learn 01](https://live.staticflickr.com/65535/51916022022_7defb77bd2_z.jpg)
+
+We can now see that output.stree and run.txt are produced along with some other files.
 
 ![learn 01](https://live.staticflickr.com/65535/51917315549_9c191028e1_b.jpg)
 
