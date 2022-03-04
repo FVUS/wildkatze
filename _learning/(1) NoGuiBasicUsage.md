@@ -1,10 +1,58 @@
 ---
 name:  No GUI Basic Usage of Wildkatze
-tools: [Laminar, Pipe Flow]
+tools: [Wildkatze, Set Up]
 image: https://live.staticflickr.com/65535/51908026852_4ee149a839_c.jpg
 description:  Basics of performing ultra fast simulations with Wildkatze
 ---
 
 # Set Up 
 
+ ![learn 01](https://live.staticflickr.com/65535/51916021422_83ec9405b7_n.jpg)
+
+![learn 01](https://live.staticflickr.com/65535/51917315099_242391d07d_c.jpg)
+
+![learn 01](https://live.staticflickr.com/65535/51916021592_3bdbd6bdc9_z.jpg)
+
+![learn 01](https://live.staticflickr.com/65535/51917315189_506c2008bc_z.jpg)
+
  
+
+![learn 01](https://live.staticflickr.com/65535/51916989341_bc2efdd2ee_n.jpg)
+
+![learn 01](https://live.staticflickr.com/65535/51916989476_8eb117fd8a_b.jpg)
+
+![learn 01](https://live.staticflickr.com/65535/51916022022_7defb77bd2_z.jpg)
+
+![learn 01](https://live.staticflickr.com/65535/51917315549_9c191028e1_b.jpg)
+
+![learn 01](https://live.staticflickr.com/65535/51917610880_2d0dcbdef3_h.jpg)
+
+![learn 01](https://live.staticflickr.com/65535/51917610960_e01f910982_c.jpg)
+
+![learn 01](https://live.staticflickr.com/65535/51917611100_c5a9da37e8_c.jpg)
+
+![learn 01](https://live.staticflickr.com/65535/51917316224_e1a712f839_z.jpg)
+
+![learn 01](https://live.staticflickr.com/65535/51916022997_d1b501bb12_h.jpg)
+
+![learn 01](https://live.staticflickr.com/65535/51916990556_e973f39e5f_z.jpg)
+
+ 
+![learn 01](https://live.staticflickr.com/65535/51917086628_fc60f65f53_z.jpg)
+
+![learn 01](https://live.staticflickr.com/65535/51917086803_8783be79d1_z.jpg)
+
+![learn 01](https://live.staticflickr.com/65535/51917087023_baa81af819_h.jpg)
+
+![learn 01](https://live.staticflickr.com/65535/51916023672_c59bd4b81f_c.jpg)
+
+![learn 01](https://live.staticflickr.com/65535/51917316999_def79ce443_b.jpg)
+
+![learn 01](https://live.staticflickr.com/65535/51916991551_4ecb9c601e_b.jpg)
+
+
+![learn 01](https://live.staticflickr.com/65535/51917087403_d95ae9377a_m.jpg)
+
+![learn 01](https://live.staticflickr.com/65535/51917087483_d4ebbd5357_m.jpg)
+
+![learn 01](https://live.staticflickr.com/65535/51916991761_459b42f217_c.jpg)
