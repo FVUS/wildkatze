@@ -22,17 +22,15 @@ We connect the client to server as
 
 ![install 02](https://live.staticflickr.com/65535/51910301998_91252a2894_c.jpg)
 
-
-
-# Core Concept of Wildkatze Solver
  <br/><br/>
+ <br/><br/>
+# Core Concept of Wildkatze Solver
  <br/><br/>
 
 **Define Physics Model on Region Set +  Phase Set**
-
+ <br/><br/>
 - Create **Regions Sets** using **various combinations of regions** then define **Phase Sets** on **various Phases** (air, water etc etc) using the **Phases** that user has defined. 
 - Ask **Wildkatze** solver to solve them. 
-
  <br/><br/>
  <br/><br/>
 
