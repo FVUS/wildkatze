@@ -66,7 +66,11 @@ We can now see that output.stree and run.txt are produced along with some other 
 
 ![learn 01](https://live.staticflickr.com/65535/51917315549_9c191028e1_b.jpg)
 
+We now perform 200 iterations and also export the results in Ensight Gold format.
+
 ![learn 01](https://live.staticflickr.com/65535/51917610880_2d0dcbdef3_h.jpg)
+
+
 
 ![learn 01](https://live.staticflickr.com/65535/51917610960_e01f910982_c.jpg)
 
