@@ -131,11 +131,11 @@ Forces are exported as ``` .csv ``` and ``` .ps ``` formats.
 
 The velocity contour
 
-![learn 01](https://live.staticflickr.com/65535/51917087403_d95ae9377a_m.jpg)
+![learn 01](https://live.staticflickr.com/65535/51916286322_5e307b79fe_c.jpg)
 
 Turbulent Viscosity
 
-![learn 01](https://live.staticflickr.com/65535/51917087483_d4ebbd5357_m.jpg)
+![learn 01](https://live.staticflickr.com/65535/51917252861_5c382d87c5_z.jpg)
 
 The kinetic energy from K Omega model
 
