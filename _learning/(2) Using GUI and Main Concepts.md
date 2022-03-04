@@ -44,9 +44,16 @@ We connect the client to server as
 
 # Multi-Region 
  
- Wildkatze supports multi-region simulations
+ Wildkatze supports multi-region simulations. Mesh file contains several regions (or just one). As explained above in order to define the Physics Model one need Region Set. There is no limitation on how many region sets one can define. There are no rigid rules about it. Usually they are defined based on what the simulation is trying to achieve. 
+ 
+ For example if one is solving Conjugated Heat Transfer than it makes sense to create two Region Sets (a) one for Fluid regions and (b) for all regions ie for Solids and Fluids. 
  
  ![learn 01](https://live.staticflickr.com/65535/51917492536_7b3e04ac43_b.jpg)
+ 
+ ### Partial Regions
+ 
+ Some models require Physics Models to be applied to only the parts of certain regions. For them Partial regions could be defined. At the moment Immersed Boundary Models are using Partial regions where Solid marking algorithm creates a Partial region where velocities are enforced. 
+ 
  
  ![learn 01](https://live.staticflickr.com/65535/51917818959_6c966e8e31_b.jpg)
  
