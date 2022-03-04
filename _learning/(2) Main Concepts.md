@@ -1,7 +1,7 @@
 ---
 name:  Main Concepts of Wildkatze Solver
 tools: [Main Concepts of Wildkatze]
-image: https://live.staticflickr.com/65535/51913553264_8125c1750a_z.jpg
+image: https://live.staticflickr.com/65535/51916523957_e4c48110b0_b.jpg
 description:  Core and Advanced Concepts of Wildkatze Solver
 ---
 
