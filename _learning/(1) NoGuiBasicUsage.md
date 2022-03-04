@@ -1,7 +1,7 @@
 ---
 name:  No GUI Basic Usage of Wildkatze
 tools: [Wildkatze, Set Up]
-image: https://live.staticflickr.com/65535/51908026852_4ee149a839_c.jpg
+image: https://live.staticflickr.com/65535/51917369876_12971dce3f_m.jpg
 description:  Basics of performing ultra fast simulations with Wildkatze
 ---
 
