@@ -86,6 +86,7 @@ To set up as unsteady case
 
 - ``` -dt 1E-3 ``` option here sets up constant timestep simulation
 - ``` -vdt 1e-3 ```  sets up case with variable timestep simulation where the time step size is decided by velocity and Courant number setting. 
+- ``` -pptr ``` options adds transient export of results as Ensight Gold files with default name zDataPP.case
 
 ![learn 01](https://live.staticflickr.com/65535/51916022997_d1b501bb12_h.jpg)
 
@@ -102,13 +103,29 @@ We can edit PostProcessExportItem on text editor to change the time export frequ
 
 ![learn 01](https://live.staticflickr.com/65535/51917086803_8783be79d1_z.jpg)
 
+# Turbulence and Forces Export
+
+We can also add the turbulence and force reports from the command prompt. 
+
+- ``` -wd ``` options adds Wall Distance model. **Do not forget to add Wall distance model with Turbulence**
+- ``` -kw ``` adds K Omega SST model
+- ``` -ke ``` adds K Epsilon model
+- ``` -sa ``` adds Spalart Allmaras model
+
+**Please check dedicated articles related to Turbulence for full options**
 
 
 ![learn 01](https://live.staticflickr.com/65535/51917087023_baa81af819_h.jpg)
 
+We run it for 2000 time steps as
+
 ![learn 01](https://live.staticflickr.com/65535/51916023672_c59bd4b81f_c.jpg)
 
+This finishes as
+
 ![learn 01](https://live.staticflickr.com/65535/51917316999_def79ce443_b.jpg)
+
+Forces are exported as ``` .csv ``` and ``` .ps ``` formats. 
 
 ![learn 01](https://live.staticflickr.com/65535/51916991551_4ecb9c601e_b.jpg)
 
