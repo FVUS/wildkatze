@@ -25,14 +25,16 @@ We connect the client to server as
 
 
 # Core Concept of Wildkatze Solver
-
+ <br/><br/>
+ <br/><br/>
 
 **Define Physics Model on Region Set +  Phase Set**
 
 - Create **Regions Sets** using **various combinations of regions** then define **Phase Sets** on **various Phases** (air, water etc etc) using the **Phases** that user has defined. 
 - Ask **Wildkatze** solver to solve them. 
 
-
+ <br/><br/>
+ <br/><br/>
 
 
 # Descretization
@@ -40,10 +42,9 @@ We connect the client to server as
  Wildkatze supports both second order and third order descreization. In second order stencil there is one integration point for each of the faces of the control volume. Third order stencil needs more integration points. For example for a tetrahydral mesh for each face one would have 3 integration points. 
  The gradient computation for third order model is done with extended stencil ie it also now involves the second neighbor cells too. 
  
- ![learn 01](https://live.staticflickr.com/65535/51916523472_7ddb129722_b.jpg)
- 
- 
- # Multi-Region 
+![learn 01](https://live.staticflickr.com/65535/51916523472_7ddb129722_b.jpg)
+
+# Multi-Region 
  
  Wildkatze supports multi-region simulations
  
