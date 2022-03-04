@@ -53,13 +53,21 @@ We connect the client to server as
 ### Partial Regions
  
  Some models require Physics Models to be applied to only the parts of certain regions. For them Partial regions could be defined. At the moment Immersed Boundary Models are using Partial regions where Solid marking algorithm creates a Partial region where velocities are enforced. 
+
+
+ ![learn 01](https://live.staticflickr.com/65535/51917818959_6c966e8e31_b.jpg)
  
-  <br/><br/>
+  
  <br/><br/>
- 
+ <br/><br/> 
 # Phases and Phase Sets
  
- ![learn 01](https://live.staticflickr.com/65535/51917818959_6c966e8e31_b.jpg)
+ Phases are not already present so it is something user defines. Phase serves two purposes in context of wildkatze solver. First it serves as Phase of the medium ie it could represent the material properties of a Fluid or Solid. Second it serves as a basis on which Storage managers are defined. 
+ 
+For example take variable velocity, now if the simulation is multiphase then there is need to differentiate velocities of mixture and of phases. Since for each phase a Storage manager is defined, user can request for velocities in mixture and for phases from their respective Storage manager. 
+
+Phase can be dependent on another phase. For example a two phase (air, water) simulation, one can define the mixture-phase and then air-phase and water-phase. Then mixture-phase properties are now dependent on air-phase and water-phase. 
+
  
  ![learn 01](https://live.staticflickr.com/65535/51918111225_828d61fdd4_b.jpg)
  
