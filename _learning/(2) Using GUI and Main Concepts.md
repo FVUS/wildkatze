@@ -66,12 +66,25 @@ We connect the client to server as
  
 For example take variable velocity, now if the simulation is multiphase then there is need to differentiate velocities of mixture and of phases. Since for each phase a Storage manager is defined, user can request for velocities in mixture and for phases from their respective Storage manager. 
 
-Phase can be dependent on another phase. For example a two phase (air, water) simulation, one can define the mixture-phase and then air-phase and water-phase. Then mixture-phase properties are now dependent on air-phase and water-phase. 
-
- 
  ![learn 01](https://live.staticflickr.com/65535/51918111225_828d61fdd4_b.jpg)
  
+
+### Phase-to-Phases 
+
+Phase can be dependent on another phase. For example a two phase (air, water) simulation, one can define the mixture-phase and then air-phase and water-phase. Then mixture-phase properties are now dependent on air-phase and water-phase. 
+
+Phase-to-Phases is used to create this mapping. For example mixture-phase is the main phase and then air-phase and water-phase could be two phases on which mixture-phase. 
+
+
  ![learn 01](https://live.staticflickr.com/65535/51917492861_176b476dfb_b.jpg)
+ 
+   
+ <br/><br/>
+ <br/><br/> 
+# Physics Models
+
+Once Region-sets and Phase-Sets are defined, we can chose any combination of (Region-set, Phase-Set) to define a Physics Model. 
+
  
  ![learn 01](https://live.staticflickr.com/65535/51916523957_e4c48110b0_b.jpg)
  
