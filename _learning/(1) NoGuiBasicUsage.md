@@ -34,6 +34,25 @@ This converts the mesh into ``` .info.bmsh ``` and ``` .bmsh ``` files.
 It is importan to note that one can change the boundary types here to Wall, Inlet, Outlet and Symmetry.  
 Also one can change Fluid to Solid types for Conjugated Heat Transfer simulations. 
 
+# Flow Model Set Up
+
+To make the set up of simulation easy Wildkatze provides various command line set up options. Once the basic set up is done then user can add further to the set up by using GUI (in Client - Server mode) or by simply opening the .stree file on text editor of choice. 
+
+
+## Steady State
+
+The first is to set up steady state flow model. This is done by 
+
+```
+
+solver.sh -lc flow meshFile -lc pf o.txt
+
+```
+What is happening here?
+ -   ``` flow meshFile ``` generates a journal file  o.txt 
+ -   ``` -lc ``` tells wildkatze that this is newline or new command starts here. Using multiple ``` -lc ``` can be used to provide multi-line commands as argument to wildkatze.
+ -  ``` -lc pf o.txt ``` part tells wildkatze to process file (pf) o.txt and generate output.stree and run.txt  files.
+ -  run.txt is journal file to run simulation using output.stree and meshFile
 
 ![learn 01](https://live.staticflickr.com/65535/51916989476_8eb117fd8a_b.jpg)
 
