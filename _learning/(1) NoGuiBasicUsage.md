@@ -76,18 +76,33 @@ We now perform 200 iterations and also export the results in Ensight Gold format
 
 ![learn 01](https://live.staticflickr.com/65535/51917611100_c5a9da37e8_c.jpg)
 
-We look at velocity counter. 
+We look at velocity contour. There is no steady profile because this problem is more transient in nature. 
 
 ![learn 01](https://live.staticflickr.com/65535/51917316224_e1a712f839_z.jpg)
 
+## Unsteady Set Up
+
+To set up as unsteady case
+
+- ``` -dt 1E-3 ``` option here sets up constant timestep simulation
+- ``` -vdt 1e-3 ```  sets up case with variable timestep simulation where the time step size is decided by velocity and Courant number setting. 
+
 ![learn 01](https://live.staticflickr.com/65535/51916022997_d1b501bb12_h.jpg)
+
+After 200 time steps by ``` solver.sh -lc pf run.txt -lc iterate 200 ``` we get velocity profile
 
 ![learn 01](https://live.staticflickr.com/65535/51916990556_e973f39e5f_z.jpg)
 
+We can see that it produces transient data set as zDataPP.case
  
 ![learn 01](https://live.staticflickr.com/65535/51917086628_fc60f65f53_z.jpg)
 
+
+We can edit PostProcessExportItem on text editor to change the time export frequency of default 1.0E-3 to 1.0E-2
+
 ![learn 01](https://live.staticflickr.com/65535/51917086803_8783be79d1_z.jpg)
+
+
 
 ![learn 01](https://live.staticflickr.com/65535/51917087023_baa81af819_h.jpg)
 
