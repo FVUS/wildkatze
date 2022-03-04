@@ -50,14 +50,14 @@ We connect the client to server as
  
  ![learn 01](https://live.staticflickr.com/65535/51917492536_7b3e04ac43_b.jpg)
  
- ### Partial Regions
+### Partial Regions
  
  Some models require Physics Models to be applied to only the parts of certain regions. For them Partial regions could be defined. At the moment Immersed Boundary Models are using Partial regions where Solid marking algorithm creates a Partial region where velocities are enforced. 
  
   <br/><br/>
  <br/><br/>
  
- # Phases and Phase Sets
+# Phases and Phase Sets
  
  ![learn 01](https://live.staticflickr.com/65535/51917818959_6c966e8e31_b.jpg)
  
