@@ -8,7 +8,7 @@ description:  Learning to use GUI to set up simulations
 # Set Up 
 
  
-![install 01](https://live.staticflickr.com/65535/51919164044_94c7915729_s.jpg)
+![install 01](https://live.staticflickr.com/65535/51919164044_94c7915729_n.jpg)
 
 ![install 01](https://live.staticflickr.com/65535/51919503650_4f6c19196d_z.jpg)
 
