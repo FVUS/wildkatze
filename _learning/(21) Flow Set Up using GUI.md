@@ -131,6 +131,11 @@ The **PressureBaseFlowModel** is  added. The GUI shows the added Model.
 
 ![install 01](https://live.staticflickr.com/65535/51918934473_d0afc8d4d1_b.jpg)
 
+## PressureBaseFlowModel Options and Settings
+
+Model settings are present under **Model-Conditions** node under the **PressureBaseFlowModel**.  The options are **Phase** specific that means for all the **Phases** in the **Phase-Set** on which this Model is defined there shall be one set of **Settings** or **Options**. There shall be always **Options** related to **default** phase that is present in the **Wildkatze**. 
+
+Some models that need options outside of their **Phases** provide **Options** in **default-phase**.  A typical example is **Multiphase Models** that have options specific to **Phases** but also **Options** that are not any **Phase** specific. 
 
 ![install 01](https://live.staticflickr.com/65535/51918835731_4149975fbb_b.jpg)
 
