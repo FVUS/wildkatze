@@ -213,15 +213,40 @@ Click on the **Floppy** icon to bring dialog to save the **Simulation Tree**.  T
 
 ![install 01](https://live.staticflickr.com/65535/51919456940_534ffb7a72_z.jpg)
 
-# Thirty
+<br/><br/>
+<br/><br/>
+# Running the Simulation
+
+One can perform iterations from GUI too. For this press the icon
 
 ![install 01](https://live.staticflickr.com/65535/51918935403_576a44f8bb_s.jpg)
 
+Press the same icon to stop the iterations
+ 
 ![install 01](https://live.staticflickr.com/65535/51919457075_7dafe47046_z.jpg)
+
+
+
+<br/><br/>
+<br/><br/>
+# Exporting Simulation Results
+
+Click on this icon to export the results in **Ensight Gold** format
 
 ![install 01](https://live.staticflickr.com/65535/51918836696_1553b6004a_s.jpg)
 
 ![install 01](https://live.staticflickr.com/65535/51919166769_51a1b13f96_n.jpg)
+
+
+
+
+
+<br/><br/>
+<br/><br/>
+# To Exit the GUI
+
+From Menu **File** and then **Exit** shall exit the GUI and Wildkatze solver
+
 
 ![install 01](https://live.staticflickr.com/65535/51919457265_b80a2eede9_n.jpg)
 
