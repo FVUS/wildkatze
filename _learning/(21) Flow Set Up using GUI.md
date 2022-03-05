@@ -163,12 +163,22 @@ One can click on corrosponding **Phase** item to change the **Boundary Condition
 
 ![install 01](https://live.staticflickr.com/65535/51919456290_c2e3605c0a_b.jpg)
 
-
+<br/><br/>
+<br/><br/>
 # Simulation Options
 
+As name suggests the **Simulation Options** are options applied to the whole simulation. To change **Simulation** node on the top of the **Simulation Tree**. 
 
+### Unsteady/Steady
+
+Click on **simulation-type** to open up options to set the simulation to Unsteady or Steady.  For this example we set the simulation to **transient** type.
 
 ![install 01](https://live.staticflickr.com/65535/51918934788_f53c61869d_b.jpg)
+
+
+<br/><br/>
+<br/><br/>
+# Exporting Temporal Results
 
 ![install 01](https://live.staticflickr.com/65535/51918836031_cf86f18850_c.jpg)
 
