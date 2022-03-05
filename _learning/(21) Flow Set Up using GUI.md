@@ -79,14 +79,23 @@ User can double click on the name to change it. Here we change it to **air** to 
 <br/><br/>
 ## Phase Set
  
+ Right click on the node **Phase Sets** to open the **Phase Sets** dialog. 
 
 ![install 01](https://live.staticflickr.com/65535/51918983923_626bbb0b15_m.jpg)
 
+Click on Phase **air** and press on button **Select**. This puts the phase into the selection list. 
+
 ![install 01](https://live.staticflickr.com/65535/51918834916_9d90e5c71c_n.jpg)
+
+Press on button **Create** to create the **Phase Set**
 
 ![install 01](https://live.staticflickr.com/65535/51918835046_afd3c81f81_n.jpg)
 
+By default the name of the **Phase Set** is **phase-set**. One can double click to change the name. Here we keep the default name **phase-set** in this case.
+
 ![install 01](https://live.staticflickr.com/65535/51918835121_97e1ba6916_n.jpg)
+
+# Model Creation
 
 ![install 01](https://live.staticflickr.com/65535/51917947257_05b272724c_m.jpg)
 
