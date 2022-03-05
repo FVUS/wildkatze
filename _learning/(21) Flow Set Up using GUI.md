@@ -74,7 +74,7 @@ description:  Learning to use GUI to set up simulations
 
 ![install 01](https://live.staticflickr.com/65535/51917869867_7e2b56cd4c_n.jpg)
 
-![install 01](https://live.staticflickr.com/65535/51919456615_6fedd7117a_m.jpg)
+![install 01](https://live.staticflickr.com/65535/51919456615_6fedd7117a_n.jpg)
 
 ![install 01](https://live.staticflickr.com/65535/51918836281_be80a514af_s.jpg)
 
