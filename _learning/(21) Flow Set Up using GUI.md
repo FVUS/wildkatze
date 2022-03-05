@@ -175,20 +175,31 @@ Click on **simulation-type** to open up options to set the simulation to Unstead
 
 ![install 01](https://live.staticflickr.com/65535/51918934788_f53c61869d_b.jpg)
 
+![install 01](https://live.staticflickr.com/65535/51918836031_cf86f18850_c.jpg)
+
 
 <br/><br/>
 <br/><br/>
 # Exporting Temporal Results
 
-![install 01](https://live.staticflickr.com/65535/51918836031_cf86f18850_c.jpg)
+Right click on **Export** node of **Post Processing** to open **Post Processing** dialog. Here we can set up **time-step** and **Time-frequency** to set up the temporal export in **Ensight** format. Here we set the **Time-frequency** to 0.01 (seconds).
+
+This data could be used to create animation. 
 
 ![install 01](https://live.staticflickr.com/65535/51918934903_5312b0945d_n.jpg)
 
-# Tw25
-
 ![install 01](https://live.staticflickr.com/65535/51917869867_7e2b56cd4c_n.jpg)
 
+<br/><br/>
+<br/><br/>
+# Initialization
+
+Click on button (on Top Menu)
+
 ![install 01](https://live.staticflickr.com/65535/51919456615_6fedd7117a_n.jpg)
+
+This initializes solver.  **This is important because without this Wildkatze can not run any simulation**.
+
 
 ![install 01](https://live.staticflickr.com/65535/51918836281_be80a514af_s.jpg)
 
