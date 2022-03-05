@@ -157,9 +157,16 @@ For example **Bounded-Central** scheme is selected by right clicking on it and s
 <br/><br/>
 ## Boundary Conditions
 
+The structure of Boundary Conditions is first the **Regions** are listed then their **Boundaries** are listed. On each **Boundary** for each **Phase** the Settings or Options are listed. 
 
+One can click on corrosponding **Phase** item to change the **Boundary Conditions**.
 
 ![install 01](https://live.staticflickr.com/65535/51919456290_c2e3605c0a_b.jpg)
+
+
+# Simulation Options
+
+
 
 ![install 01](https://live.staticflickr.com/65535/51918934788_f53c61869d_b.jpg)
 
