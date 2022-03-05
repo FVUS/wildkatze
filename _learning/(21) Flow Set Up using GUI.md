@@ -5,13 +5,20 @@ image: https://live.staticflickr.com/65535/51913553264_8125c1750a_z.jpg
 description:  Learning to use GUI to set up simulations
 ---
 
-# Set Up 
+# GUI or Client Server Mode 
 
- 
-![install 01](https://live.staticflickr.com/65535/51919164044_94c7915729_n.jpg)
+The GUI mode or Client Server mode is two step process
 
-![install 01](https://live.staticflickr.com/65535/51919503650_4f6c19196d_z.jpg)
+-  Starting the server on some port (for example at port 5010) as ``` solver.sh -s 5010 ``` starts the server at port 5010
+-  Launching the GUI by ``` solvergui.sh ``` or ``` java -jar  $HOME/dravvya/bin/WildkatzeGui.jar ``` with using appropiate location of jar file
 
+We connect the client to server as
+
+![install 02](https://live.staticflickr.com/65535/51910301998_91252a2894_c.jpg)
+
+# New Simulation
+
+  
 ![install 01](https://live.staticflickr.com/65535/51918933128_cd02ea9e8b_c.jpg)
 
 ![install 01](https://live.staticflickr.com/65535/51918933223_bb2e04968a_n.jpg)
