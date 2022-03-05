@@ -51,24 +51,34 @@ On the **Region Sets** dialog one then select the region in this case **fluid** 
 
 Press on **Create** button to create the Region Set.
 
-By default it is named **region-set** but user can change the name by double clicking on the name. 
 
 ![install 01](https://live.staticflickr.com/65535/51919454995_f602ee8f32_n.jpg)
+
+By default it is named **region-set** but user can change the name by double clicking on the name. 
+
+![install 01](https://live.staticflickr.com/65535/51919503835_5228c231f6_m.jpg)
 
 <br/><br/>
 <br/><br/>
 ## Phase
 
-![install 01](https://live.staticflickr.com/65535/51919503835_5228c231f6_m.jpg)
+Right click on node **Phase** and select **Create** to add the phase.
 
 ![install 01](https://live.staticflickr.com/65535/51917916897_59a06c6d50_m.jpg)
 
+By default they are named **phase-1** , **phase-2** etc.
+
 ![install 01](https://live.staticflickr.com/65535/51919213964_ec7f3912b9_m.jpg)
+
+User can double click on the name to change it. Here we change it to **air** to give it more meaningful name.
 
 ![install 01](https://live.staticflickr.com/65535/51918883606_67683bcd7e_m.jpg)
 
 
-# Ten
+<br/><br/>
+<br/><br/>
+## Phase Set
+ 
 
 ![install 01](https://live.staticflickr.com/65535/51918983923_626bbb0b15_m.jpg)
 
