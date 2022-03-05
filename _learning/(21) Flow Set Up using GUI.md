@@ -110,9 +110,14 @@ Right click **Model Sets** node and click pn **Pre-Initialize** .  This exposes 
 
 **At this point the Wildkatze allocates the Storage Manager for each Region and for each Phase. These Storage Managers are then used by Physics Models to allocate variables.**  This is very important aspect to understand for **Wildkatze** users specially those who want to use it at advanced level.
 
-![install 01](https://live.staticflickr.com/65535/51917947402_97d870ed90_n.jpg)
+![install 01](https://live.staticflickr.com/65535/51919165524_6ac7b638ae_n.jpg)
+
 
 #### Model Addition
+
+
+![install 01](https://live.staticflickr.com/65535/51917947402_97d870ed90_n.jpg)
+
 
 ![install 01](https://live.staticflickr.com/65535/51919455820_a58c4fb573_n.jpg)
 
@@ -126,7 +131,6 @@ The **PressureBaseFlowModel** is  added. The GUI shows the added Model.
 
 ![install 01](https://live.staticflickr.com/65535/51918934473_d0afc8d4d1_b.jpg)
 
-![install 01](https://live.staticflickr.com/65535/51919165524_6ac7b638ae_n.jpg)
 
 ![install 01](https://live.staticflickr.com/65535/51918835731_4149975fbb_b.jpg)
 
