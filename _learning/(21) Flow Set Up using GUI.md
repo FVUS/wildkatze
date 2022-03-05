@@ -41,13 +41,23 @@ The Mesh information is shown under the **Grid** node.
 <br/><br/>
 
 ## Region Set
-
+<br/><br/>
+Once the mesh is loaded the next thing to do is to define the Region-set or Region-Sets.
+To do this user shall right click on node **Region-Sets** and click on **Create**
+<br/><br/>
 ![install 01](https://live.staticflickr.com/65535/51919213794_23499f7bef_n.jpg)
 
+On the **Region Sets** dialog one then select the region in this case **fluid** then click on **select** button to add to the selection. 
 
+Press on **Create** button to create the Region Set.
+
+By default it is named **region-set** but user can change the name by double clicking on the name. 
 
 ![install 01](https://live.staticflickr.com/65535/51919454995_f602ee8f32_n.jpg)
 
+<br/><br/>
+<br/><br/>
+## Phase
 
 ![install 01](https://live.staticflickr.com/65535/51919503835_5228c231f6_m.jpg)
 
