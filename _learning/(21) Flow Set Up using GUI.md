@@ -131,26 +131,33 @@ The **PressureBaseFlowModel** is  added. The GUI shows the added Model.
 
 ![install 01](https://live.staticflickr.com/65535/51918934473_d0afc8d4d1_b.jpg)
 
+<br/><br/>
+<br/><br/>
 ## PressureBaseFlowModel Options and Settings
 
 Model settings are present under **Model-Conditions** node under the **PressureBaseFlowModel**.  The options are **Phase** specific that means for all the **Phases** in the **Phase-Set** on which this Model is defined there shall be one set of **Settings** or **Options**. There shall be always **Options** related to **default** phase that is present in the **Wildkatze**. 
 
 Some models that need options outside of their **Phases** provide **Options** in **default-phase**.  A typical example is **Multiphase Models** that have options specific to **Phases** but also **Options** that are not any **Phase** specific. 
 
-Click on **aire** under **Model-Conditions** and user can see **Options-Tree** populate on the right side Panel.  
+Click on **air** under **Model-Conditions** and user can see **Options-Tree** populate on the right side Panel.  
+
+![install 01](https://live.staticflickr.com/65535/51918835731_4149975fbb_b.jpg)
 
 On **Options-Tree** :
 
    - Right click on an item to select Setting with multiple Options. For example changing from First Order Scheme to Second Order Scheme is done this value.
    - Double click on a **value** to change the value of some Setting.  For example user can change Under-relaxation like this.
  
-
-
-![install 01](https://live.staticflickr.com/65535/51918835731_4149975fbb_b.jpg)
-
-# tweenty
+For example **Bounded-Central** scheme is selected by right clicking on it and selecting it.
 
 ![install 01](https://live.staticflickr.com/65535/51918835786_69ee8ea456_n.jpg)
+
+
+<br/><br/>
+<br/><br/>
+## Boundary Conditions
+
+
 
 ![install 01](https://live.staticflickr.com/65535/51919456290_c2e3605c0a_b.jpg)
 
