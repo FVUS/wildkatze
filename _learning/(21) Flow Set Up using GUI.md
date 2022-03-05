@@ -18,6 +18,13 @@ We connect the client to server as
 
 # New Simulation
 
+Once Client is connected to the Server, one can create new simulation by clicking on
+
+![install 01](https://live.staticflickr.com/65535/51918026102_192236458f_s.jpg)
+
+User shall then select the  ```  TriVortexShed.info.bmsh ``` file.  Note that the file to be selected is ``` .info.bmsh ``` and not the ``` .bmsh ``` file. 
+
+This sets up the basic Simulation Tree.
   
 ![install 01](https://live.staticflickr.com/65535/51918933128_cd02ea9e8b_c.jpg)
 
