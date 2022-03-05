@@ -190,18 +190,24 @@ This data could be used to create animation.
 
 ![install 01](https://live.staticflickr.com/65535/51917869867_7e2b56cd4c_n.jpg)
 
+
+![install 01](https://live.staticflickr.com/65535/51919456615_6fedd7117a_n.jpg)
+
 <br/><br/>
 <br/><br/>
 # Initialization
 
 Click on button (on Top Menu)
 
-![install 01](https://live.staticflickr.com/65535/51919456615_6fedd7117a_n.jpg)
+![install 01](https://live.staticflickr.com/65535/51918836281_be80a514af_s.jpg)
 
 This initializes solver.  **This is important because without this Wildkatze can not run any simulation**.
 
+<br/><br/>
+<br/><br/>
+# Saving the Simulation Tree File
 
-![install 01](https://live.staticflickr.com/65535/51918836281_be80a514af_s.jpg)
+Click on the **Floppy** icon to bring dialog to save the **Simulation Tree**.  The extension is ``` .stree ``` .
 
 ![install 01](https://live.staticflickr.com/65535/51918935193_7b0b3d22cd_s.jpg)
 
