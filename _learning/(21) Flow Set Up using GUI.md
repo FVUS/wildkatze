@@ -100,6 +100,16 @@ By default the name of the **Phase Set** is **phase-set**. One can double click 
 <br/><br/>
 # Model Creation
 
+The node **Models** gets **Model Sets** nodes once user **Pre-Initialize**. One can then add the sets of **Models** by adding **Model-Set** by right clicking **Model Sets** node.
+
+Then on each of **Model-Set** node user can add **Physics Models** by right clicking on **Model Set-X**
+
+#### Pre-Initialize
+
+Right click **Model Sets** node and click pn **Pre-Initialize** .  This exposes **Model Sets** node. 
+
+**At this point the Wildkatze allocates the Storage Manager for each Region and for each Phase. These Storage Managers are then used by Physics Models to allocate variables.**  This is very important aspect to understand for **Wildkatze** users specially those who want to use it at advanced level.
+
 ![install 01](https://live.staticflickr.com/65535/51917947402_97d870ed90_n.jpg)
  
 ![install 01](https://live.staticflickr.com/65535/51919455820_a58c4fb573_n.jpg)
