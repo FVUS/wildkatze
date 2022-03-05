@@ -5,6 +5,9 @@ image: https://live.staticflickr.com/65535/51913553264_8125c1750a_z.jpg
 description:  Learning to use GUI to set up simulations
 ---
 
+<br/><br/>
+<br/><br/>
+
 # GUI or Client Server Mode 
 
 The GUI mode or Client Server mode is two step process
@@ -15,6 +18,9 @@ The GUI mode or Client Server mode is two step process
 We connect the client to server as
 
 ![install 02](https://live.staticflickr.com/65535/51910301998_91252a2894_c.jpg)
+
+<br/><br/>
+<br/><br/>
 
 # New Simulation
 
@@ -31,6 +37,8 @@ This sets up the basic Simulation Tree.
 The Mesh information is shown under the **Grid** node.
 
 ![install 01](https://live.staticflickr.com/65535/51918933223_bb2e04968a_n.jpg)
+<br/><br/>
+<br/><br/>
 
 ## Region Set
 
