@@ -58,6 +58,4 @@ When we set up simulation using console then the **Turbulence Model** is specifi
  **From GUI select LesSubgridModel**
  
  
-
-
  
