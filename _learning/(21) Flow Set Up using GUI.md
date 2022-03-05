@@ -28,11 +28,15 @@ This sets up the basic Simulation Tree.
   
 ![install 01](https://live.staticflickr.com/65535/51918933128_cd02ea9e8b_c.jpg)
 
+The Mesh information is shown under the **Grid** node.
+
 ![install 01](https://live.staticflickr.com/65535/51918933223_bb2e04968a_n.jpg)
+
+## Region Set
 
 ![install 01](https://live.staticflickr.com/65535/51919213794_23499f7bef_n.jpg)
 
-# five
+
 
 ![install 01](https://live.staticflickr.com/65535/51919454995_f602ee8f32_n.jpg)
 
