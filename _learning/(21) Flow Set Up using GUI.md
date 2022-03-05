@@ -114,11 +114,15 @@ Right click **Model Sets** node and click pn **Pre-Initialize** .  This exposes 
 
 #### Model Addition
 
-Once solver is **Pre Initialized** and **Model Set** is added we can right click **Model-Set** in this case **Model-Set-1** to bring up the **Model Selection** dialog.
-
 ![install 01](https://live.staticflickr.com/65535/51919455820_a58c4fb573_n.jpg)
 
+Once solver is **Pre Initialized** and **Model Set** is added we can right click **Model-Set** in this case **Model-Set-1** to bring up the **Model Selection** dialog.
+
+Here we select the **region-set** and **phase-set** and also **PressureBasedFlowModel** and then the Model is added by pressing on **Add** button
+
 ![install 01](https://live.staticflickr.com/65535/51918835486_e403b349dc_z.jpg)
+
+The **PressureBaseFlowModel** is  added. The GUI shows the added Model.
 
 ![install 01](https://live.staticflickr.com/65535/51918934473_d0afc8d4d1_b.jpg)
 
