@@ -4,7 +4,14 @@ title: About
 permalink: /about/
 weight: 5
 ---
+<br/><br/>
+<br/><br/>
+# Contact For Inquiries
 
+**arjun_yadav@digital-sol.co.jp**
+
+<br/><br/>
+<br/><br/>
 # **History**
 
 The project **FVUS** (Finite Volume Utilities and Solvers)  was started on 1st January 2015 with the aim of providing a very robust and highly adaptable multi-physics solver. 
@@ -17,7 +24,8 @@ The project **FVUS** (Finite Volume Utilities and Solvers)  was started on 1st J
 - Easy to be developed by a team of developers
 - Easy to install and use (example: single command set up of case and running the iterations)
 
-
+<br/><br/>
+<br/><br/>
 # Timeline 
 
 - 1st January 2015 : Start of the project FVUS
