@@ -7,8 +7,9 @@ description: Download and Installation
 
 # Obtaining Wildkatze
  <br/><br/>
+ NOTE:  The release file **does not contain vtk folder** data. The current GUI  **works without vtk** too. 
  <br/><br/>
- [**Download Wildkatze**]( https://github.com/FVUS/wildktaze/blob/main/release/y2022/WildkatzeCFD.zip)
+ [**Download Wildkatze**](https://github.com/FVUS/wildkatze/blob/main/release/Wildkatze.Release.2022.2.30_noVTK.7z)
 <br/><br/>
 <br/><br/>
 
