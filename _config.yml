@@ -72,6 +72,9 @@ collections:
   verification:
     output: true
     permalink: /verification/:name
+  articles:
+    output: true
+    permalink: /articles/:name
 
 
 ### Disqus ###
@@ -126,6 +129,11 @@ defaults:
   - scope:
       path: ""
       type: "verification"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "articles"
     values:
       layout: "page"
 
