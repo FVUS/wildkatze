@@ -35,9 +35,9 @@ We connect the client to server as
  <br/><br/>
 
 
-# Descretization
+# Discretization
  
- Wildkatze supports both second order and third order descreization. In second order stencil there is one integration point for each of the faces of the control volume. Third order stencil needs more integration points. For example for a tetrahydral mesh for each face one would have 3 integration points. 
+ Wildkatze supports both second order and third order discretization. In second order stencil there is one integration point for each of the faces of the control volume. Third order stencil needs more integration points. For example for a tetrahydral mesh for each face one would have 3 integration points. 
  The gradient computation for third order model is done with extended stencil ie it also now involves the second neighbor cells too. 
  
 ![learn 01](https://live.staticflickr.com/65535/51916523472_7ddb129722_b.jpg)
