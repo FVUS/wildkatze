@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-weight: 6
+weight: 7
 ---
 <br/><br/>
 <br/><br/>
