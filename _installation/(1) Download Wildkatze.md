@@ -9,7 +9,7 @@ description: Download and Installation
  <br/><br/>
  NOTE:  The release file **does not contain vtk folder** data. The current GUI  **works without vtk** too. 
  <br/><br/>
- [**Download Wildkatze**](https://github.com/FVUS/wildkatze/blob/main/release/Wildkatze.Release.2022.2.30_noVTK.7z)
+ [**DSI Wildkatze**](http://www.digital-sol.co.jp/wildkatze/index_en.html)
 <br/><br/>
 <br/><br/>
 
