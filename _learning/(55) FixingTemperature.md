@@ -1,8 +1,8 @@
 ---
-name: Turbulent Flow
-tools: [Turbulence]
-image: https://live.staticflickr.com/65535/51909308599_70f5f4c8ea_h.jpg
-description:  Turbulence modeling with Wildkatze solver
+name: FixedTemperatureFeature
+tools: [Model Feature]
+image: https://live.staticflickr.com/65535/51913250998_93c535b0ce_z.jpg
+description:  Learning to fix Temperature at some regions and cells.
 ---
 
 # Set Up 
