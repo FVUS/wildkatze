@@ -75,6 +75,9 @@ collections:
   articles:
     output: true
     permalink: /articles/:name
+  usercoding:
+    output: true
+    permalink: /usercoding/:name
 
 
 ### Disqus ###
@@ -134,6 +137,11 @@ defaults:
   - scope:
       path: ""
       type: "articles"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "usercoding"
     values:
       layout: "page"
 
