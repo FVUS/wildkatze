@@ -10,18 +10,18 @@ permalink: /
 
 <p align="center">
   <img width="1000" height="197" src="https://live.staticflickr.com/65535/51929348241_3050fbfd2b_b.jpg">
-</p>
-
- 
+</p> 
 <br/><br/>
 <br/><br/>
-
 ## Multiphyics Solver
 <br/><br/>
 <br/><br/>
 
-<br/><br/>
-<br/><br/>
+<table style="margin-left: auto; margin-right: auto;">
+  <tr><th>Item</th>           <th>Price</th>      <th># In stock</th></tr>
+  <tr><td>Juicy Apples</td>   <td>1.99</td>       <td>739</td></tr>
+  <tr><td>Bananas</td>        <td>1.89</td>       <td>6</td></tr>
+</table>
  
 <br/><br/>
 <br/><br/>
