@@ -3,11 +3,16 @@ layout: page
 title:  Wildkatze Multiphysics Solver
 permalink: /
 ---
+ 
+<p align="center">
+  <img width="600" height="374" src="https://live.staticflickr.com/65535/51928371707_16f888fe68_z.jpg">
+</p>
 
-![Wildkatze Logo](https://live.staticflickr.com/65535/51928371707_16f888fe68_z.jpg)
+<p align="center">
+  <img width="1000" height="197" src="https://live.staticflickr.com/65535/51929348241_3050fbfd2b_b.jpg">
+</p>
 
-![Summary](https://live.staticflickr.com/65535/51929348241_3050fbfd2b_b.jpg)
-
+ 
 <br/><br/>
 <br/><br/>
 
