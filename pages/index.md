@@ -5,12 +5,18 @@ permalink: /
 ---
  
 <p align="center">
-  <img width="600" height="374" src="https://live.staticflickr.com/65535/51928371707_16f888fe68_z.jpg">
+  <img width="715" height="332" src="https://live.staticflickr.com/65535/51929832868_87bff4691f_z.jpg">
 </p>
 
 <p align="center">
   <img width="1000" height="197" src="https://live.staticflickr.com/65535/51929348241_3050fbfd2b_b.jpg">
 </p> 
+
+<p align="center">
+  <img width="600" height="111" src="https://live.staticflickr.com/65535/51929832868_87bff4691f_z.jpg">
+</p>
+
+
 <br/><br/>
 ## Why Wildkatze – Prime capabilities
 <br/><br/>
