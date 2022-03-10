@@ -13,7 +13,7 @@ permalink: /
 </p> 
 
 <p align="center">
-  <img width="600" height="111" src="https://live.staticflickr.com/65535/51929832868_87bff4691f_z.jpg">
+  <img width="600" height="111" src="https://live.staticflickr.com/65535/51928766577_b3b082d75b_z.jpg">
 </p>
 
 
