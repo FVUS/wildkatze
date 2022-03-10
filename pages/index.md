@@ -20,8 +20,6 @@ permalink: /
 <br/><br/>
 ## Innovation Wildkatze 
 <br/><br/>
-
-
 <table style="margin-left: auto; margin-right: auto;  border-spacing: 30px; padding-left: 15px; padding-right: 15px; border:1px solid blue;  th, td { padding: 15px; }">
   <tr>  <th  style="text-align:center" >Innovative approach in setting up physics models</th>  <th  style="text-align:center">Flexibility in the selection of CFD schemes</th> <th  style="text-align:center">Customize the Finite Volume solver</th>  <th  style="text-align:center" >Immersed Boundary Method</th>   </tr>   
 
