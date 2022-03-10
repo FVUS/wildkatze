@@ -12,12 +12,10 @@ permalink: /
 ## Multiphyics Solver
 <br/><br/>
 <br/><br/>
-![Summary](https://live.staticflickr.com/65535/51909289644_5801b44f86_z.jpg)
+![Summary](https://live.staticflickr.com/65535/51929682219_81a03067e9_h.jpg)
 <br/><br/>
 <br/><br/>
-
-![Summary](https://live.staticflickr.com/65535/51920823786_69649709e0_z.jpg)
-
+ 
 <br/><br/>
 <br/><br/>
 ## Apllications 
