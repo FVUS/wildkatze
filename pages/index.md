@@ -14,7 +14,7 @@ permalink: /
 <br/><br/>
 ## Why Wildkatze – Prime capabilities
 <br/><br/>
-<table style="margin-left: auto; margin-right: auto;  border-spacing: 30px; padding-left: 15px; padding-right: 15px; ">
+<table style="margin-left: auto; margin-right: auto;  border-spacing: 30px; padding-left: 15px; padding-right: 15px; border:2px solid blue; ">
   <tr>  <th>Accurate and Robust</th> 
   <th>Innovative approach in setting up physics models</th>    
            <th>Flexibility in the selection of CFD schemes</th> 
