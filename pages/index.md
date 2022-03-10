@@ -18,7 +18,7 @@ permalink: /
 
 
 <br/><br/>
-## Why Wildkatze – Prime capabilities
+## Innovation Wildkatze 
 <br/><br/>
 
 
