@@ -44,6 +44,8 @@ make && sudo make install
 
 ### Step 3 -- VTK for Client GUI
 
+<span style="color:red">  **Setting up VTK is no longer necessary because VTK Panels in GUI are no longer loaded.** </span>
+
 We copied solver into ``` $HOME/dravvya/ ```
  
 ![install 02](https://live.staticflickr.com/65535/51908477227_e2c83d05d7_c.jpg)
