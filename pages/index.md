@@ -18,9 +18,9 @@ permalink: /
 <br/><br/>
 
 <table style="margin-left: auto; margin-right: auto;">
-  <tr><th>Item</th>           <th>Price</th>      <th># In stock</th></tr>
-  <tr><td>Juicy Apples</td>   <td>1.99</td>       <td>739</td></tr>
-  <tr><td>Bananas</td>        <td>1.89</td>       <td>6</td></tr>
+  <tr>  <th>Item</th>             <th>Price</th>       </tr>
+  <tr>  <td>Juicy Apples Please do not remove / change the system gcc : You can have as many gcc versions as you want, installed at the same time. </td>     <td> Please do not remove / change the system gcc : You can have as many gcc versions as you want, installed at the same time. </td>        </tr>
+
 </table>
  
 <br/><br/>
