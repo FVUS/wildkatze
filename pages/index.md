@@ -15,7 +15,7 @@ permalink: /
 ## Why Wildkatze – Prime capabilities
 <br/><br/>
 <table style="margin-left: auto; margin-right: auto;  border-spacing: 30px; padding-left: 15px; padding-right: 15px; border:1px solid blue;  th, td { padding: 15px; }">
-  <tr>  <th>Accurate and Robust</th> 
+  <tr>  
   <th>Innovative approach in setting up physics models</th>    
            <th>Flexibility in the selection of CFD schemes</th> 
            <th>Customize the Finite Volume solver</th> 
@@ -25,7 +25,7 @@ permalink: /
             
             
   <tr>  
-  <td>  Accurate and Rubust </td>  
+ 
   <td>  Wildkatze package features a wide range of physics models. In general, the flow field is composed of various physical phenomena and it is difficult to capture all of them with one physics model. Wildkatze has the option to divide the analysis region and set up different physics models. For example, it is possible to set up LES model in one region and k-omega turbulence model in the other region. </td> 
   <td> When user selects a time stepping or gradient discretization scheme, generally in conventional solvers, the same scheme would be set for the entire simulation. In contrast, Wildkatze allows the user to select different time stepping and gradient discretization schemes for each physics model. </td>  
   <td> Wildkatze provides the user access to almost all variables and internal solver settings through C++ coding. This flexible customization option empower the user to take control of the solver and customers can incorporate their own physics models into Wildkatze for conducting advanced research. User can also enhance the capabilities of existing physics models through Add Feature option in Wildkatze.  </td> 
