@@ -57,9 +57,6 @@ Wildkatze's Third Order Flow is the **first Pressure-based SIMPLE implementation
 
 ### Truely Implicit Interface Tracking Method for Multiphase Simulations
 <br/><br/>
-<p align="center">
-  <img width="1000" height="524" src="https://live.staticflickr.com/65535/51932403171_68115ce1f2_b.jpg">
-</p>
 
 With Wildkatze's innovative **MaxGBCA** scheme we can track interfaces between phases at **high Courant** numbers without losing accuracy. For very famous Bubble Rise benchmark problem, Wildkatze maintains accuracy at Courant numbers as high as 5 or above.
 <br/><br/>
