@@ -18,8 +18,8 @@ permalink: /
 
 
 <br/><br/>
-## Innovation Wildkatze 
-
+##  Wildkatze Innovation
+### Highly robust and accurate solver
 <p align="center">
   <img width="1000" height="563" src="https://live.staticflickr.com/65535/51931348207_3b784e7835_h.jpg">
 </p>
