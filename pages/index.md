@@ -48,12 +48,10 @@ As shown above Wildkatze has this unique feature to automatically set up and per
 
 ### Truely Implicit Interface Tracking Method for Multiphase Simulations
 <br/><br/>
-With Wildkatze's innovative **MaxGBCA** scheme we can track interfaces between phases at **high Courant** numbers without losing accuracy.
-
-For very famous Bubble Rise benchmark problem, Wildkatze maintains accuracy at Courant numbers as high as 5 or above.
+With Wildkatze's innovative **MaxGBCA** scheme we can track interfaces between phases at **high Courant** numbers without losing accuracy. For very famous Bubble Rise benchmark problem, Wildkatze maintains accuracy at Courant numbers as high as 5 or above.
 
 <p align="center">
-  <img width="1000" height="563" src="https://live.staticflickr.com/65535/51911208218_575063a4ed_b.jpg">
+  <img width="700" height="394" src="https://live.staticflickr.com/65535/51911208218_575063a4ed_b.jpg">
 </p>
 
 <table style="margin-left: auto; margin-right: auto;  border-spacing: 30px; padding-left: 15px; padding-right: 15px; border:1px solid blue;  th, td { padding: 15px; }">
