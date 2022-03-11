@@ -19,7 +19,9 @@ permalink: /
 
 <br/><br/>
 ##  Wildkatze Innovation
+<br/><br/>
 ### Highly robust and accurate solver
+<br/><br/>
 <p align="center">
   <img width="1000" height="563" src="https://live.staticflickr.com/65535/51931348207_3b784e7835_h.jpg">
 </p>
