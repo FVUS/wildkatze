@@ -20,13 +20,29 @@ permalink: /
 <br/><br/>
 ##  Wildkatze Innovation
 <br/><br/>
-### Highly robust and accurate solver
+### Highly Robust and Accurate Solver
 <br/><br/>
 <p align="center">
   <img width="1000" height="563" src="https://live.staticflickr.com/65535/51931348207_3b784e7835_h.jpg">
 </p>
 
 <br/><br/>
+
+<br/><br/>
+### Ultra-fast Simulation from Console Command
+
+```
+solver.sh -lc flow meshFile -vel 25  -wd -kw -forces -lc pf o.txt -lc iterate 500 -lc export-ensight results
+```
+
+- Sets up simulation with inlet velocity of 25 m/sec
+- Adds Wall Distance Model and K - Omega Turbulence Model
+- Exports Forces
+- Performs 500 iterations
+- Exports results in Ensight Gold format
+
+As shown above Wildkatze has this unique feature to automatically set up and perform simulations. This makes it extremely easy to use and very useful for Optimization problems. 
+
 <table style="margin-left: auto; margin-right: auto;  border-spacing: 30px; padding-left: 15px; padding-right: 15px; border:1px solid blue;  th, td { padding: 15px; }">
   <tr>  <th  style="text-align:center" >Innovative approach in setting up physics models</th>  <th  style="text-align:center">Flexibility in the selection of CFD schemes</th> <th  style="text-align:center">Customize the Finite Volume solver</th>  <th  style="text-align:center" >Immersed Boundary Method</th>   </tr>   
 
