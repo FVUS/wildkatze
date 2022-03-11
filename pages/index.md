@@ -57,7 +57,7 @@ With Wildkatze's innovative **MaxGBCA** scheme we can track interfaces between p
 
 ###  Third Order SIMPLE Solver
 <br/><br/>
-Wildkatze's Third Order Flow is the **first** Pressure based SIMPLE implementation available in commerical softwares. It is **Accurate, Robust and Fast**. 
+Wildkatze's Third Order Flow is the **first** Pressure based SIMPLE implementation available in commerical softwares. It is **Accurate, Robust and Fast**. It gives same level of accuracy on 10 times coarser mesh resulting in huge saving on simulation time and cost. 
 <br/><br/>
 <p align="center">
   <img width="1000" height="529" src="https://live.staticflickr.com/65535/51931405337_b11cd26b0a_b.jpg">
