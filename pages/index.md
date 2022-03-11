@@ -30,11 +30,12 @@ permalink: /
 
 <br/><br/>
 ### Ultra-fast Simulation from Console Command
+<br/><br/>
 
 ```
 solver.sh -lc flow meshFile -vel 25  -wd -kw -forces -lc pf o.txt -lc iterate 500 -lc export-ensight results
 ```
-
+<br/><br/>
 - Sets up simulation with inlet velocity of 25 m/sec
 - Adds Wall Distance Model and K - Omega Turbulence Model
 - Exports Forces
@@ -42,6 +43,9 @@ solver.sh -lc flow meshFile -vel 25  -wd -kw -forces -lc pf o.txt -lc iterate 50
 - Exports results in Ensight Gold format
 
 As shown above Wildkatze has this unique feature to automatically set up and perform simulations. This makes it extremely easy to use and very useful for Optimization problems. 
+
+<br/><br/>
+
 
 <table style="margin-left: auto; margin-right: auto;  border-spacing: 30px; padding-left: 15px; padding-right: 15px; border:1px solid blue;  th, td { padding: 15px; }">
   <tr>  <th  style="text-align:center" >Innovative approach in setting up physics models</th>  <th  style="text-align:center">Flexibility in the selection of CFD schemes</th> <th  style="text-align:center">Customize the Finite Volume solver</th>  <th  style="text-align:center" >Immersed Boundary Method</th>   </tr>   
