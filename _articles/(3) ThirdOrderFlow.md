@@ -22,7 +22,7 @@ With Wildkatze we are able to demonstrate highly stable Third order solver on un
 
 #### Demostration
 <p align="center">
-  <img width="1000" height="563" src="https://live.staticflickr.com/65535/51941367356_095c784ef8_b.jpg">
+  <img width="1000" height="563" src="https://live.staticflickr.com/65535/51940488717_ecfab54282_b.jpg">
 </p> 
 
 
