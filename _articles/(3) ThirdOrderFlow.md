@@ -31,13 +31,19 @@ This off course comes with huge cost savings by using 10 times less coarse mesh.
  <br/><br/>
 
 # Why Higher Order Methods
-
+<br/><br/>
 - Reduction of calculation cost by factor of 10 or more by using Third Order Flow model.
 - A Third Order Flow model can achieve same level of accuracy as Second Order Flow model on meshes that are 10 times or less coarse. 
 - Increase of accuracy from Second Order model even using the same fine mesh. 
  <br/><br/>
  <br/><br/>
+ 
 # Third Order Flow Model on Unstructured Meshes
+<br/><br/>
+Finite Volume Descretization is achieved through more integration points per face as opposed to 1 integration point per face in Second Order methods.
+<p align="center">
+  <img width="1000" height="333" src="https://live.staticflickr.com/65535/51941367356_095c784ef8_b.jpg">
+</p> 
 
  <br/><br/>
  <br/><br/>
