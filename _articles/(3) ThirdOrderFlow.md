@@ -39,7 +39,7 @@ This off course comes with huge cost savings by using 10 times less coarse mesh.
  
 # Third Order Flow Model on Unstructured Meshes
 <br/><br/>
-Finite Volume Descretization is achieved through more integration points per face as opposed to 1 integration point per face in Second Order methods. For example for a Tetrahydral mesh, for each face of control volume Third Order discretization will use 3 integration points as opposed to 1 for Second Order method. 
+Finite Volume Discretization is achieved through more integration points per face as opposed to 1 integration point per face in Second Order methods. For example for a Tetrahydral mesh, for each face of control volume Third Order discretization will use 3 integration points as opposed to 1 for Second Order method. 
 
 <p align="center">
   <img width="1000" height="333" src="https://live.staticflickr.com/65535/51941367356_095c784ef8_b.jpg">
