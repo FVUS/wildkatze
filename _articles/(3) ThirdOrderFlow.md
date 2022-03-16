@@ -21,10 +21,13 @@ One of the reasons why no commercial software offers Higher Order Model is the r
 With Wildkatze we are able to demonstrate highly stable Third order solver on unstructured meshes even those including general polyhderals.  User does not have to worry about skew etc and it saves lot of time for the user.  Wildkatze’s Third Order solver is more stable than most CFD solvers available in the market. 
 
 #### Demostration
+We take an extremely difficult case with mesh **delibrately** created such that **NO** control volume has good skew. To make things even harder we have chosen a fluid with Power Law Viscosity (in this case properties of a Rubber in Tyres). This power Law viscosity case is difficult to converge even on best of the meshes.
+
 <p align="center">
   <img width="1000" height="563" src="https://live.staticflickr.com/65535/51940488717_ecfab54282_b.jpg">
 </p> 
 
+Wildkatze's Second and Third Order solvers have absolutely no problems converging this case as seen in the residual plots below:
 
 <p align="center">
   <img width="1000" height="461" src="https://live.staticflickr.com/65535/51940488757_8655cdf320_b.jpg">
