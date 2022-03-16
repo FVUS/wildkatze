@@ -7,7 +7,7 @@ description:  Development of Third Order Flow Model in Wildkatze Solver
  <br/><br/>
  <br/><br/>
  <br/><br/>
-# Higher Order Methods Myths
+# Higher Order Method Myths
 Higher Order Methods  attractive as they  are always been shrouded in lot of myths about them. Most common of them are:
  <br/><br/>
 ### Higher Order Methods are only for Academia
