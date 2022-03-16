@@ -54,7 +54,23 @@ Gradient computation is then followed by constructing various variables to contr
  <br/><br/>
  <br/><br/>
 # Challenges
+### Cost
 
+As mentioned above the computation of Third Order Model involves extended stencil of control volumes. This comes with a huge increase in computational cost. If not tackles properly the cost of computation could be as high as 10 times or more. 
+
+In 2018 when Third Order was first introduced to Wildkatze cost and stability were major problems faced. This is why we did not suggest this model to our clients.
+
+These two problems were finally solved in 2020 and now Third Order model is efficient and stable.
+
+### Stability
+
+CFD solvers use gradient limiters to make simulation stable. However gradient limiters and Higher order methods do not mix. 
+
+The search for gradient limiters for Higher Order Methods is an active area of research. 
+
+Wildkatze has been able to overcome this problem too. We have developed a novel method to keep solver stable without giving up on accuracy. 
+
+This factor makes Wildkatze unique. 
  <br/><br/>
  <br/><br/>
 ##  SIMPLE Algorithm
