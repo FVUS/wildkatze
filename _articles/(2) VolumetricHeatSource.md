@@ -1,7 +1,7 @@
 ---
 name: RegionsHeatSourceFeature
 tools: [Model Feature]
-image: https://live.staticflickr.com/65535/51913250998_93c535b0ce_z.jpg
+image: https://live.staticflickr.com/65535/51908879836_d640907927_c.jpg
 description:  Learning to apply heat source at some regions.
 ---
 
