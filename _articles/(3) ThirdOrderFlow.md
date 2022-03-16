@@ -28,6 +28,19 @@ The cost increase per iteration from Second Order to Third Order is typically be
 
 This off course comes with huge cost savings by using 10 times less coarse mesh. 
 
+### Need for Special Meshes
+
+Wildkatze generates the third order integration points when they are needed for discretization. This provides a very memory efficient way to implement Third Order model. This come with small calculation cost penalty but savings on memory requirements are huge.
+
+The switching to Third Order Model is very easy. User shall just select one keywork in Simulation Tree file. These are the only two settings user need to change to use Third Order Flow model.
+
+
+```
+       solver-order    	third-order 	0 	2 	second-order 	third-order User
+       convection-scheme    	third-order-upwind 	0 	6 	FirstOrderUpwind 	SecondOrderUpwind 	unlimited-upwind-2 	Bounded-Central 	third-order-upwind 	third-order-bcd User
+```
+
+
  <br/><br/>
  <br/><br/>
 # Why Higher Order Methods
