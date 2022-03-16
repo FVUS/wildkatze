@@ -80,7 +80,7 @@ Wildkatze is unique from the fact that it is the only one to offer Pressure base
 
 #### Taylor-Green
 
-A simple validation is presented here using Taylor-Green vortices on an unstructured 2D mesh. The analytical solution is given as:
+A simple validation is presented here using Taylor-Green vortices on an **unstructured 2D mesh**. The analytical solution is given as:
 <br/><br/>
 <p align="center">
   <img width="600" height="128" src="https://live.staticflickr.com/65535/51941496993_41b7703a11_z.jpg">
