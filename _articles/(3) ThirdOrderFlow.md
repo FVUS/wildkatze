@@ -70,7 +70,7 @@ Wildkatze has been able to overcome this problem too. We have developed a novel 
  <br/><br/>
  <br/><br/>
 ##  SIMPLE Algorithm
- <br/><br/>
+
 While there is a huge surge in research in Higher Order methods, they are mostly focused on Compressible High Speed and Density based methods.
 
 Wildkatze is unique from the fact that it is the only one to offer Pressure based method in shape of most used algorithm in industry – SIMPLE.
