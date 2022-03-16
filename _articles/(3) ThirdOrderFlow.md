@@ -30,9 +30,7 @@ This off course comes with huge cost savings by using 10 times less coarse mesh.
 
  <br/><br/>
  <br/><br/>
-
 # Why Higher Order Methods
-<br/><br/>
 - Reduction of calculation cost by factor of 10 or more by using Third Order Flow model.
 - A Third Order Flow model can achieve same level of accuracy as Second Order Flow model on meshes that are 10 times or less coarse. 
 - Increase of accuracy from Second Order model even using the same fine mesh. 
@@ -41,10 +39,17 @@ This off course comes with huge cost savings by using 10 times less coarse mesh.
  
 # Third Order Flow Model on Unstructured Meshes
 <br/><br/>
-Finite Volume Descretization is achieved through more integration points per face as opposed to 1 integration point per face in Second Order methods.
+Finite Volume Descretization is achieved through more integration points per face as opposed to 1 integration point per face in Second Order methods. For example for a Tetrahydral mesh, for each face of control volume Third Order discretization will use 3 integration points as opposed to 1 for Second Order method. 
+
 <p align="center">
   <img width="1000" height="333" src="https://live.staticflickr.com/65535/51941367356_095c784ef8_b.jpg">
 </p> 
+
+Also the gradients are computed from extended stencil of control volume neighbours involving second neighbours also. For this reason gradients are calculated from 12 to 200 neighbours. 
+
+**For general polyhedral meshes this could be prohibitive expensive because we might have around 300 to 400 neighbours in computation stencil. For this reason Wildkatze restricts the maximum numbers to be around 30.**
+
+Gradient computation is then followed by constructing various variables to control volume faces using Third Order expression. These two steps are the majority of computation costs.
 
  <br/><br/>
  <br/><br/>
