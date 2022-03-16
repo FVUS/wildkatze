@@ -47,7 +47,7 @@ Finite Volume Descretization is achieved through more integration points per fac
 
 Also the gradients are computed from extended stencil of control volume neighbours involving second neighbours also. For this reason gradients are calculated from 12 to 200 neighbours. 
 
-**For general polyhedral meshes this could be prohibitive expensive because we might have around 300 to 400 neighbours in computation stencil. For this reason Wildkatze restricts the maximum numbers to be around 30.**
+**For general polyhedral meshes this could be prohibitively expensive because we might have around 300 to 400 neighbours in computation stencil. For this reason Wildkatze restricts the maximum numbers to be around 30.**
 
 Gradient computation is then followed by constructing various variables to control volume faces using Third Order expression. These two steps are the majority of computation costs.
 
@@ -64,16 +64,14 @@ These two problems were finally solved in 2020 and now Third Order model is effi
 
 ### Stability
 
-CFD solvers use gradient limiters to make simulation stable. However gradient limiters and Higher order methods do not mix. 
+CFD solvers use gradient limiters to make simulation stable. However gradient limiters and Higher order methods do not mix. The search for gradient limiters for Higher Order Methods is an active area of research. 
 
-The search for gradient limiters for Higher Order Methods is an active area of research. 
-
-Wildkatze has been able to overcome this problem too. We have developed a novel method to keep solver stable without giving up on accuracy. 
-
-This factor makes Wildkatze unique. 
+Wildkatze has been able to overcome this problem too. We have developed a novel method to keep solver stable without giving up on accuracy. This factor makes Wildkatze unique. 
  <br/><br/>
  <br/><br/>
 ##  SIMPLE Algorithm
+ <br/><br/>
+While there is a huge surge in research in Higher Order methods, they are mostly focused on Compressible High Speed and Density based methods.
 
-
+Wildkatze is unique from the fact that it is the only one to offer Pressure based method in shape of most used algorithm in industry – SIMPLE.
  
