@@ -12,7 +12,7 @@ Higher Order Methods  attractive as they  are always been shrouded in lot of myt
  <br/><br/>
 ### Higher Order Methods are only for Academia
 
-This myth originates from the fact that there is no commercial software offering Third or Higher Order solver for finite volume forumulation. Indeed Wildkatze is first commercially available finite volume solver to offer Third Order SIMPLE solver. 
+This myth originates from the fact that there is no commercial software offering Third or Higher Order solver for finite volume formulation. Indeed Wildkatze is first commercially available finite volume solver to offer Third Order SIMPLE solver. 
 
 ### Higher Order Methods are Unstable and Difficult to Converge
 
