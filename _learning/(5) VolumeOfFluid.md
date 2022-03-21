@@ -10,18 +10,26 @@ description:  VOF Model and Interface Tracking with Wildkatze solver
 
 # Introduction 
 <br/><br/>
- 
+
+ We learn how to use VOF model of Wildkatze solver with the help of famous Dambreak test problem.  Here a column of water collapses and water surface is tracked by VOF model. 
+
+We demonstrate how efficiently Wildkatze performs multi-phase simulation thanks to its Implicit VOF model.
+
+Here we decide the maximum time-step based on Maximum Courant number = 10.  Typically VOF models find it tough to run even at Courant number = 1 or so.  Time-step based on Maximum Courant number = 10 is extremely challenging for any solver but here Wildkatze makes it look very easy and simple. 
+
 [![Dambreak](https://img.youtube.com/vi/4vXZR9YO3qY/0.jpg)](https://youtu.be/4vXZR9YO3qY "Dambreak")
 
 
  
-
+<br/><br/>
 #  Basic Set up
+
+Wildkatze can set up basic set up just by single command so that user does not have to spend time setting up case with GUI.  It is almost always advised to use command line to set up the cases with Wildkatze. Advanced simulations could be set up with GUI too.  For most cases command line set up is adequate.  
 
 ```
 solver.sh -lc vof dambreak -gr -vdt 1E-2 -pptr   -lc pf o.txt   
 ```
-
+<br/><br/>
 # Specialize the Set Up File output.stree
 
 We edit  output.stree file on a text editor.
@@ -39,7 +47,7 @@ We edit  output.stree file on a text editor.
        max-iterations    	Integer 	1 	1 	0 User
        max-iteration-per-timestep    	Integer 	1 	9 	0 User
 ```
-
+<br/><br/>
 #### Initialize Water Column
 
 We initialize the water column by editing VariableBoxPatchItem in output.stree.  
@@ -55,7 +63,7 @@ prim-phase
 -1e+20  0.3
 -1e+20  1e+20
 ```
-
+<br/><br/>
 #### Results Export Frequency
 
 We edit PostProcessExportItem to set the results export frequency to 0.01 seconds. 
@@ -73,7 +81,7 @@ Time-frequency
 100  
 0.01 
 ```
-
+<br/><br/>
 #  Performing the Simulation
 
 Performing the simulation is very easy. 
@@ -81,7 +89,7 @@ Performing the simulation is very easy.
 ```
 solver.sh -lc pf run.txt   -lc iterate 1000  
 ```
-
+<br/><br/>
 # Results
 
 The results are exported in Ensight Gold format. 
