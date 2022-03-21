@@ -9,7 +9,6 @@ description:  VOF Model and Interface Tracking with Wildkatze solver
 <br/><br/>
 
 # Introduction 
-<br/><br/>
 
  We learn how to use VOF model of Wildkatze solver with the help of famous Dambreak test problem.  Here a column of water collapses and water surface is tracked by VOF model. 
 
