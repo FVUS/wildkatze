@@ -24,7 +24,7 @@ Here we decide the maximum time-step based on Maximum Courant number = 10.  Typi
 #  Basic Set up
 
 Wildkatze can set up basic set up just by single command so that user does not have to spend time setting up case with GUI.  It is almost always advised to use command line to set up the cases with Wildkatze. Advanced simulations could be set up with GUI too.  For most cases command line set up is adequate.  
-
+<br/><br/>
 ```
 solver.sh -lc vof dambreak -gr -vdt 1E-2 -pptr   -lc pf o.txt   
 ```
@@ -35,7 +35,7 @@ We edit  output.stree file on a text editor.
 
 #### Maximum Iterations Per Time-Step
 
-
+<br/><br/>
 ```
      1  Noname
      23
@@ -50,7 +50,7 @@ We edit  output.stree file on a text editor.
 #### Initialize Water Column
 
 We initialize the water column by editing VariableBoxPatchItem in output.stree.  
-
+<br/><br/>
 ```
               (: 
               "VariableBoxPatchItem"  1  "volume-fraction(prim-phase,0.0,-1.0E+20,1.0E+20,-1.0E+20,1.0E+20,-1.0E+20,1.0E+20)"  "SimTreeBaseItem-plus-980-parent-FieldVariableItem978"    980  0  0
@@ -67,7 +67,7 @@ prim-phase
 
 We edit PostProcessExportItem to set the results export frequency to 0.01 seconds. 
 
-
+<br/><br/>
 ```
 zDataPP  
 Time-Step  
@@ -84,7 +84,7 @@ Time-frequency
 #  Performing the Simulation
 
 Performing the simulation is very easy. 
-
+<br/><br/>
 ```
 solver.sh -lc pf run.txt   -lc iterate 1000  
 ```
