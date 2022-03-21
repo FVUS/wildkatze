@@ -74,4 +74,37 @@ Time-frequency
 0.01 
 ```
 
+#  Performing the Simulation
 
+Performing the simulation is very easy. 
+
+```
+solver.sh -lc pf run.txt   -lc iterate 1000  
+```
+
+# Results
+
+The results are exported in Ensight Gold format. 
+
+We have:
+
+#### At time =  0.25 sec
+<p align="center">
+  <img width="611" height="398" src="https://live.staticflickr.com/65535/51951412747_681d8b3a72_z.jpg">
+</p>
+
+#### At time =  0.525 sec
+<p align="center">
+  <img width="611" height="398" src="https://live.staticflickr.com/65535/51952706569_b13c465b18_z.jpg">
+</p>
+
+#### At time =  3.5 sec
+<p align="center">
+  <img width="611" height="398" src="https://live.staticflickr.com/65535/51952998255_3808bd1db6_z.jpg">
+</p>
+
+
+#### At time =  8.0 sec
+<p align="center">
+  <img width="611" height="398" src="https://live.staticflickr.com/65535/51952468598_b05dbc1351_z.jpg">
+</p>
