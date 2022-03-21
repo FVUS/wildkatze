@@ -8,7 +8,7 @@ description:  VOF Model and Interface Tracking with Wildkatze solver
  
  <br/><br/>
  <br/><br/>
- [**Download Files**](https://github.com/FVUS/wildkatze/blob/main/learning/dambreak.tar.xz)
+ [**Download Files**](https://github.com/FVUS/wildkatze/blob/main/learning/dambreak.zip)
 <br/><br/>
 <br/><br/>
 
