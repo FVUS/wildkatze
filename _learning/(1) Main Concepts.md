@@ -7,6 +7,16 @@ description:  Core and Advanced Concepts of Wildkatze Solver
 
 
 
+
+# On Youtube 
+
+**Watch it on Youtube Video**
+
+[![Usage](https://img.youtube.com/vi/rqh7JFU0xJg/0.jpg)](https://youtu.be/rqh7JFU0xJg "Usage")
+
+
+ <br/><br/>
+
 # Introduction
 
 While setting up from command prompt is very fast and thanks to automated set up it is mostly possible to perform the simulation without ever opening GUI, it is useful to inform about the concepts of Wildkatze to utilize software to its fullest possibilities. There might be some small things that are not possible to set up from console. 
