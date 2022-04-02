@@ -11,7 +11,7 @@ description: Download and Installation
  <br/><br/>
  NOTE:  The release file **does not contain vtk folder** data. The current GUI  **works without vtk** too. 
  <br/><br/>
- [**Download Wildkatze 2022.2.30**](https://github.com/FVUS/wildkatze/blob/main/release/Wildkatze.Release.2022.3.30.x86_64_noVTK.7z)
+ [**Download Wildkatze 2022.3.30**](https://github.com/FVUS/wildkatze/blob/main/release/Wildkatze.Release.2022.3.30.x86_64_noVTK.7z)
 <br/><br/>
 <br/><br/>
 
