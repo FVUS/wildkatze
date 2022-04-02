@@ -12,6 +12,9 @@ description:  Basics of performing ultra fast simulations with Wildkatze Solver
 <br/><br/>
 
 
+**On Youtube**
+
+[![Usage](https://img.youtube.com/vi/oDzat2gDp30/0.jpg)](https://youtu.be/oDzat2gDp30 "Usage")
 
 
 # Converting Meshes to Wildkatze Format 
