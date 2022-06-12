@@ -1,9 +1,9 @@
 ---
-title: Richtmyer Meshkov Instability
+title: Flow Split Validation Case
 tags: [Diffuse Interface Model, High Speed, Multiphase]
 style: 
 color: 
-description: Benchmark problem for validation of Diffuse Interface Model. 
+description: Verification Problem for Third Order Flow. 
 ---
 
 
