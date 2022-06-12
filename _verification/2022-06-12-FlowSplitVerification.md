@@ -1,6 +1,6 @@
 ---
 title: Flow Split Validation Case
-tags: [Diffuse Interface Model, High Speed, Multiphase]
+tags: [Third Order Flow]
 style: 
 color: 
 description: Verification Problem for Third Order Flow. 
