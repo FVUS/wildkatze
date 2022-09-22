@@ -1,8 +1,8 @@
 ---
-name:  Third Order Solver in Wildkatze
-tools: [Higher Order, Third Order Method]
+name:  Maximum Gradient Based Compression Algorithm
+tools: [MaxGBCA, VoF]
 image: https://live.staticflickr.com/65535/51941411023_12b1679de3_m.jpg
-description:  Development of Third Order Flow Model in Wildkatze Solver
+description:  Development of MaxGBCA in Wildkatze Solver
 ---
  <br/><br/>
  <br/><br/>
