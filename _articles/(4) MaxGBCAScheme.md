@@ -10,3 +10,8 @@ description:  Development of MaxGBCA in Wildkatze Solver
 # Maximum Gradient Based Compression Algorithm
  
  
+# Obtaining Wildkatze
+ <br/><br/>
+ [**Download MaxGBCA**](https://github.com/FVUS/wildkatze/blob/main/learning/MaxGBCACode.zip)
+<br/><br/>
+<br/><br/>
