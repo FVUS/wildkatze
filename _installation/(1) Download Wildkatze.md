@@ -11,7 +11,7 @@ description: Download and Installation
  <br/><br/>
  NOTE:  The release file **does not contain vtk folder** data. The current GUI  **works without vtk** too. 
  <br/><br/>
- [**Download Wildkatze 2022.8.30**](https://github.com/FVUS/wildkatze/blob/main/release/Wildkatze.Release.2022.8.30.x86_64.7z)
+ [**Download Wildkatze 2023.1.1**](https://github.com/FVUS/wildkatze/blob/main/release/Wildkatze.Release.2023.1.1.x86_64.7z)
 <br/><br/>
 <br/><br/>
 
@@ -27,7 +27,7 @@ description: Download and Installation
 ## Installation
 
 ### Step 1 -- Basic Set Up
-Unzipping Wildkatze.Gen.2019.11.30.x86_64.tar.gz we get:
+Unzipping Wildkatze.Gen.2023.1.30.x86_64.tar.gz we get:
 
 ![install 01](https://live.staticflickr.com/65535/51909427566_07a696e065_b.jpg)
 
