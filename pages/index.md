@@ -18,6 +18,36 @@ permalink: /
 
 
 <br/><br/>
+##  Wildkatze Release 2023.1.1
+Wildkatze 2023.1.1  Release Notes
+
+Flow
+----------------------------------------------------------------------
+NavierStokesExtensionModel : 
+         Addition NavierStokesExtensionModel to provide solution to Extended Navier Stokes for solution of flow where Knudson number is greater than 1E-3. Applicable to rarified gases and micro-channel flows.
+
+ViscousFlowModel 
+      Addition of ViscousFlowModel for high viscosity flows
+Navier Slip Wall BC
+
+Multiphase
+----------------------------------------------------------------------
+Predictor Corrector algorithm to achieve rapid convergence of VOF equations
+Mass balance:   Implicit VOF that runs with large time-step sizes do incurr mass or volume fraction losses.  A procedure is added to preserve the volume fraction and masses. With new procedure now the typical mass loses is below 1E-12 percentage. 
+Surface Tension Force
+New Continuum Surface Force model with better Wall Contact Angle treatment.  
+
+ElectroMagneticModel
+----------------------------------------------------------------------
+Electromagnetic model Electric and Vector potential formulation. Also supports two way MHD. 
+
+
+Linear Solvers
+----------------------------------------------------------------------
+New AMG solvers for pure Neumann BC problems.  
+Asynchronous parallel exchanges in AMG for better parallel scaling.
+
+<br/><br/>
 ##  Wildkatze Innovation
 <br/><br/>
 ### Highly Robust and Accurate Solver
