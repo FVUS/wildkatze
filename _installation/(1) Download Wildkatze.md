@@ -11,7 +11,7 @@ description: Download and Installation
  <br/><br/>
  NOTE:  The release file **does not contain vtk folder** data. The current GUI  **works without vtk** too. 
  <br/><br/>
- [**Download Wildkatze 2023.3.1 (March 2023)**](https://github.com/FVUS/wildkatze/blob/main/release/Wildkatze.Release.2023.3.1.x86_64.7z)
+ [**Download Wildkatze 2023.5.30 (May 2023)**](https://github.com/FVUS/wildkatze/blob/main/release/Wildkatze.Release.2023.5.30.x86_64.7z)
 <br/><br/>
 <br/><br/>
 
@@ -27,13 +27,13 @@ description: Download and Installation
 ## Installation
 
 ### Step 1 -- Basic Set Up
-Unzipping Wildkatze.Gen.2023.1.30.x86_64.tar.gz we get:
+Unzipping Wildkatze.Release.2023.5.30.x86_64.7z we get:
 
 ![install 01](https://live.staticflickr.com/65535/51909427566_07a696e065_b.jpg)
 
 
 - Make directory called dravvya in home ($HOME) directory.
-- Copy the contents of Wildkatze.Gen.2019.11.30.x86_64.tar.gz in ``` $HOME/dravvya ``` folder.
+- Copy the contents of Wildkatze.Release.2023.5.30.x86_64.7z in ``` $HOME/dravvya ``` folder.
 - Copy the license file license.wildkatze.dat in the ``` $HOME/dravvya/license``` folder. This license file shall be provided by Digital Solution Inc. The license file provided with basic setup will not be identified by the solver.
 - At this point ``` $HOME/dravvya``` folder has all relevant files along with a valid license.
 
