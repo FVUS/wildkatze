@@ -6,12 +6,18 @@ description: Download and Installation
 ---
 
 # Obtaining Wildkatze
-[**DSI Wildkatze**](http://www.digital-sol.co.jp/wildkatze/index_en.html)
+
  <br/><br/>
  <br/><br/>
  NOTE:  The release file **does not contain vtk folder** data. The current GUI  **works without vtk** too. 
  <br/><br/>
- [**Download Wildkatze 2023.11.30 (November 2023)**](https://github.com/FVUS/wildkatze/blob/main/release/Wildkatze.Release.2023.11.30.x86_64.7z)
+ OpenMPI 1.10 Version
+ [**Download Wildkatze 2024.9.30 (Sept 2024)**](https://github.com/FVUS/wildkatze/blob/main/release/WHAC.Release.2024.10.30.x86_64.7z)
+
+<br/><br/>
+
+OpenMPI 4.14 Version
+ [**Download Wildkatze 2024.9.30 (Sept 2024)**](https://github.com/FVUS/wildkatze/blob/main/release/WHAC.Release.2024.10.30.x86_64_openmpi4.14.5.7z)
 
 <br/><br/>
 <br/><br/>
@@ -22,6 +28,20 @@ description: Download and Installation
  [**Download Wildkatze 2023.6.30 (June 2023)**](https://github.com/FVUS/wildkatze/blob/main/release/wildkatze.gpu.2023.6.30.7z)
 <br/><br/>
 <br/><br/>
+
+
+
+
+[**DSI Wildkatze**](http://www.digital-sol.co.jp/wildkatze/index_en.html)
+ <br/><br/>
+ <br/><br/>
+ NOTE:  The release file **does not contain vtk folder** data. The current GUI  **works without vtk** too. 
+ <br/><br/>
+ [**Download Wildkatze 2023.11.30 (November 2023)**](https://github.com/FVUS/wildkatze/blob/main/release/Wildkatze.Release.2023.11.30.x86_64.7z)
+
+<br/><br/>
+<br/><br/>
+
 
 
 # On Youtube 
