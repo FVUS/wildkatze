@@ -17,7 +17,7 @@ description: Download and Installation
 <br/><br/>
 
 OpenMPI 4.14 Version
- [**Download Wildkatze 2024.9.30 (Sept 2024)**](https://github.com/FVUS/wildkatze/blob/main/release/WHAC.Release.2024.10.30.x86_64_openmpi4.14.5.7z)
+ [**Download Wildkatze 2025.8.30 (Aug 2025)**](https://github.com/FVUS/wildkatze/blob/main/release/WHAC4.Release.2025.8.30.x86_64.7z)
 
 <br/><br/>
 <br/><br/>
