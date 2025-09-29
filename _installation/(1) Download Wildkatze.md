@@ -12,7 +12,7 @@ description: Download and Installation
  NOTE:  The release file **does not contain vtk folder** data. The current GUI  **works without vtk** too. 
  <br/><br/>
  OpenMPI 1.10 Version
- [**Download Wildkatze 2025.8.30 (Aug 2025)**](https://github.com/FVUS/wildkatze/blob/main/release/WHAC.Release.2025.8.30.x86_64.7z)
+ [**Download Wildkatze 2025.9.30 (Sept 2025)**](https://github.com/FVUS/wildkatze/blob/main/release/WHAC.Release.2025.9.30.x86_64.7z)
 
 <br/><br/>
 
