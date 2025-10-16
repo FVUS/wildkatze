@@ -8,6 +8,8 @@ repository          : fvus.github.io/wildkatze                  # Change to <you
 remote_theme        : 
 open_new_tab        : false                                     # Opens external URLs in new tab (works for posts, projects and navbar only)
 
+remote_theme: jekyll-theme-minimal
+
 
 ### Plugins ###
 plugins:
