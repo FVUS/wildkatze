@@ -18,8 +18,8 @@ permalink: /
 
 
 <br/><br/>
-##  Wildkatze Release 2023.1.1
-Wildkatze 2023.1.1  Release Notes
+##  Wildkatze Release 2026.4.30
+Current Release
 
 Flow
 ----------------------------------------------------------------------
